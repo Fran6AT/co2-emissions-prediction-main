@@ -1,0 +1,84 @@
+Predicting CO₂ Emissions Using Total Energy Supply and Socioeconomic Indicators
+
+A comparative analysis of regression models 
+
+Problem statement
+
+Environmental analysts need to understand how energy supply, population
+and economic activity relate to national emissions. These relationships
+may vary across countries and years.
+
+This project will investigate how effectively regression models estimate
+annual country-level CO₂ emissions from these indicators. Predictive
+associations will not be interpreted as causal effects.
+
+Proposed approach
+
+Use country-year observations to compare three regression algorithms.
+
+Initial predictors:
+- Total energy supply
+- Population
+- Gross domestic product
+
+The algorithms and final study period will be documented before modelling.
+Regional and world aggregates will be excluded. Countries, territories and
+historical entities will be reviewed to establish a consistent geographic scope.
+
+The study estimates emissions using indicators for the same year.
+It does not initially forecast future emissions from earlier information.
+
+ Dataset
+
+Source: Our World in Data, CO₂ and greenhouse gas emissions dataset.
+Documentation: https://catalog.ourworldindata.org/emissions/owid_co2/
+The catalogue reports an update date of 10 November 2026.
+
+Initial inspection plan
+1. Check dataset structure, types and identifiers.
+2. Review geographic entities and distinguish aggregates.
+3. Inspect missingness by variable, country and year.
+4. Check duplicate country-year observations.
+5. Examine variable ranges, zeros and suspicious values.
+6. Compare candidate study periods using predictor coverage.
+7. Identify variables that could leak information about the target.
+
+Exploratory inspection helps reveal structure and anomalies before
+modelling assumptions are made (NIST/SEMATECH, n.d.).
+
+ Planned modelling safeguards
+
+- Preserve the original downloaded file.
+- Document each cleaning decision and its effect on sample size.
+- Do not use emissions-derived indicators as initial predictors.
+- Fit learned preprocessing using training data only.
+- Select validation methods that respect repeated countries and years.
+- Evaluate models using MAE, RMSE and R².
+- Reserve a final test set from model selection.
+
+These safeguards address leakage and dependence between observations
+(Kaufman, Rosset and Perlich, 2011; scikit-learn developers, n.d.a; n.d.b).
+
+Limitations to investigate
+
+- Unequal country and year coverage.
+- Missing GDP and energy observations.
+- Changes in national boundaries and reporting.
+- Differences in country size.
+- Large emissions values that may be valid observations.
+- Predictor availability when the model would be used.
+- Predictive feature importance does not establish causation.
+
+Reuse and attribution
+
+OWID combines multiple original sources. Their original licensing
+conditions still apply. Source attribution and applicable terms will be
+recorded before distributing data.
+
+ Project structure
+
+data/raw/          Original downloaded data
+data/processed/    Data produced by documented cleaning
+notebooks/         Inspection, cleaning and modelling notebooks
+src/               Reusable code
+reports/figures/   Figures for the assessment
