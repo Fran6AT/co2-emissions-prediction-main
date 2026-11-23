@@ -1,0 +1,5 @@
+stage,rows,entities,rows_removed_at_step
+Original dataset,56269,259,0
+After geographic screening,48306,223,7963
+After selecting 1990–2022,7359,223,40947
+After complete-case selection,5358,164,2001

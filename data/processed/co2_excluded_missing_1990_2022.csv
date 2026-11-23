@@ -1,0 +1,2002 @@
+country,year,iso_code,co2,total_energy_supply,population,gdp,missing_variables
+Andorra,1990,AND,0.40304,,52616.0,,"total_energy_supply, gdp"
+Andorra,1991,AND,0.40304,,56691.0,,"total_energy_supply, gdp"
+Andorra,1992,AND,0.40304,,60217.0,,"total_energy_supply, gdp"
+Andorra,1993,AND,0.406704,,63293.0,,"total_energy_supply, gdp"
+Andorra,1994,AND,0.40304,,64631.0,,"total_energy_supply, gdp"
+Andorra,1995,AND,0.425024,,63936.0,,"total_energy_supply, gdp"
+Andorra,1996,AND,0.454336,,64006.0,,"total_energy_supply, gdp"
+Andorra,1997,AND,0.465328,,64722.0,,"total_energy_supply, gdp"
+Andorra,1998,AND,0.490976,,65400.0,,"total_energy_supply, gdp"
+Andorra,1999,AND,0.51296,,65732.0,,"total_energy_supply, gdp"
+Andorra,2000,AND,0.523952,,65703.0,,"total_energy_supply, gdp"
+Andorra,2001,AND,0.523952,,65874.0,,"total_energy_supply, gdp"
+Andorra,2002,AND,0.53128,,66528.0,,"total_energy_supply, gdp"
+Andorra,2003,AND,0.534944,,69507.0,,"total_energy_supply, gdp"
+Andorra,2004,AND,0.564256,,74342.0,,"total_energy_supply, gdp"
+Andorra,2005,AND,0.578912,,77436.0,,"total_energy_supply, gdp"
+Andorra,2006,AND,0.545936,,79609.0,,"total_energy_supply, gdp"
+Andorra,2007,AND,0.538608,,81901.0,,"total_energy_supply, gdp"
+Andorra,2008,AND,0.538608,,83513.0,,"total_energy_supply, gdp"
+Andorra,2009,AND,0.516624,,83907.0,,"total_energy_supply, gdp"
+Andorra,2010,AND,0.516624,,80727.0,,"total_energy_supply, gdp"
+Andorra,2011,AND,0.490976,,77801.0,,"total_energy_supply, gdp"
+Andorra,2012,AND,0.487312,,76858.0,,"total_energy_supply, gdp"
+Andorra,2013,AND,0.47632,,75220.0,,"total_energy_supply, gdp"
+Andorra,2014,AND,0.461664,,73755.0,,"total_energy_supply, gdp"
+Andorra,2015,AND,0.465328,,72195.0,,"total_energy_supply, gdp"
+Andorra,2016,AND,0.472656,,72197.0,,"total_energy_supply, gdp"
+Andorra,2017,AND,0.472656,,73780.0,,"total_energy_supply, gdp"
+Andorra,2018,AND,0.498304,,75181.0,,"total_energy_supply, gdp"
+Andorra,2019,AND,0.490976,,76492.0,,"total_energy_supply, gdp"
+Andorra,2020,AND,0.377392,,77397.0,,"total_energy_supply, gdp"
+Andorra,2021,AND,0.414032,,78379.0,,"total_energy_supply, gdp"
+Andorra,2022,AND,0.436016,,79722.0,,"total_energy_supply, gdp"
+Anguilla,1990,AIA,0.043968,,8422.0,,"total_energy_supply, gdp"
+Anguilla,1991,AIA,0.043968,,8728.0,,"total_energy_supply, gdp"
+Anguilla,1992,AIA,0.047632,,9005.0,,"total_energy_supply, gdp"
+Anguilla,1993,AIA,0.05496,,9252.0,,"total_energy_supply, gdp"
+Anguilla,1994,AIA,0.05496,,9489.0,,"total_energy_supply, gdp"
+Anguilla,1995,AIA,0.05496,,9738.0,,"total_energy_supply, gdp"
+Anguilla,1996,AIA,0.058624,,10000.0,,"total_energy_supply, gdp"
+Anguilla,1997,AIA,0.058624,,10278.0,,"total_energy_supply, gdp"
+Anguilla,1998,AIA,0.065952,,10557.0,,"total_energy_supply, gdp"
+Anguilla,1999,AIA,0.069616,,10864.0,,"total_energy_supply, gdp"
+Anguilla,2000,AIA,0.080608,,11196.0,,"total_energy_supply, gdp"
+Anguilla,2001,AIA,0.084272,,11497.0,,"total_energy_supply, gdp"
+Anguilla,2002,AIA,0.084272,,11714.0,,"total_energy_supply, gdp"
+Anguilla,2003,AIA,0.087936,,11903.0,,"total_energy_supply, gdp"
+Anguilla,2004,AIA,0.098928,,12092.0,,"total_energy_supply, gdp"
+Anguilla,2005,AIA,0.10992,,12290.0,,"total_energy_supply, gdp"
+Anguilla,2006,AIA,0.120912,,12493.0,,"total_energy_supply, gdp"
+Anguilla,2007,AIA,0.124576,,12697.0,,"total_energy_supply, gdp"
+Anguilla,2008,AIA,0.124576,,12911.0,,"total_energy_supply, gdp"
+Anguilla,2009,AIA,0.124576,,13138.0,,"total_energy_supply, gdp"
+Anguilla,2010,AIA,0.12824,,13372.0,,"total_energy_supply, gdp"
+Anguilla,2011,AIA,0.124576,,13593.0,,"total_energy_supply, gdp"
+Anguilla,2012,AIA,0.120912,,13401.0,,"total_energy_supply, gdp"
+Anguilla,2013,AIA,0.113584,,13272.0,,"total_energy_supply, gdp"
+Anguilla,2014,AIA,0.120912,,13748.0,,"total_energy_supply, gdp"
+Anguilla,2015,AIA,0.135568,,14235.0,,"total_energy_supply, gdp"
+Anguilla,2016,AIA,0.139232,,14344.0,,"total_energy_supply, gdp"
+Anguilla,2017,AIA,0.12824,,14450.0,,"total_energy_supply, gdp"
+Anguilla,2018,AIA,0.12824,,14747.0,,"total_energy_supply, gdp"
+Anguilla,2019,AIA,0.139232,,14845.0,,"total_energy_supply, gdp"
+Anguilla,2020,AIA,0.124576,,14864.0,,"total_energy_supply, gdp"
+Anguilla,2021,AIA,0.131904,,14503.0,,"total_energy_supply, gdp"
+Anguilla,2022,AIA,0.139232,,14202.0,,"total_energy_supply, gdp"
+Antarctica,1990,ATA,0.010992,0.872348,,,"population, gdp"
+Antarctica,1991,ATA,0.014656,0.872348,,,"population, gdp"
+Antarctica,1992,ATA,0.014656,0.87473804,,,"population, gdp"
+Antarctica,1993,ATA,0.014656,0.872348,,,"population, gdp"
+Antarctica,1994,ATA,0.014656,0.872348,,,"population, gdp"
+Antarctica,1995,ATA,0.003664,0.9346586,,,"population, gdp"
+Antarctica,1996,ATA,0.003664,0.9372193,,,"population, gdp"
+Antarctica,1997,ATA,0.003664,0.9346586,,,"population, gdp"
+Antarctica,1998,ATA,0.003664,0.9346586,,,"population, gdp"
+Antarctica,1999,ATA,0.003664,0.9346586,,,"population, gdp"
+Antarctica,2000,ATA,0.003664,0.92967373,,,"population, gdp"
+Antarctica,2001,ATA,0.003664,0.9551442,,,"population, gdp"
+Antarctica,2002,ATA,0.003664,0.9551442,,,"population, gdp"
+Antarctica,2003,ATA,0.003664,0.9551442,,,"population, gdp"
+Antarctica,2004,ATA,0.007328,0.9678795,,,"population, gdp"
+Antarctica,2005,ATA,0.007328,0.9698795,,,"population, gdp"
+Antarctica,2006,ATA,0.007328,0.9698795,,,"population, gdp"
+Antarctica,2007,ATA,0.010992,0.98261476,,,"population, gdp"
+Antarctica,2008,ATA,0.0,0.045494396,,,"population, gdp"
+Antarctica,2009,ATA,0.0,0.05995284,,,"population, gdp"
+Antarctica,2010,ATA,0.0,0.05995284,,,"population, gdp"
+Antarctica,2011,ATA,0.0,0.05995284,,,"population, gdp"
+Antarctica,2012,ATA,0.0,0.0566058,,,"population, gdp"
+Antarctica,2013,ATA,0.0,0.05645284,,,"population, gdp"
+Antarctica,2014,ATA,0.0,0.05645284,,,"population, gdp"
+Antarctica,2015,ATA,0.0,0.05651072,,,"population, gdp"
+Antarctica,2016,ATA,0.0,0.05646241,,,"population, gdp"
+Antarctica,2017,ATA,0.0,0.054660268,,,"population, gdp"
+Antarctica,2018,ATA,0.0,0.054660268,,,"population, gdp"
+Antarctica,2019,ATA,0.0,0.054660305,,,"population, gdp"
+Antarctica,2020,ATA,0.0,0.046015892,,,"population, gdp"
+Antarctica,2021,ATA,0.0,0.048966072,,,"population, gdp"
+Antarctica,2022,ATA,0.0,0.05156148,,,"population, gdp"
+Antigua and Barbuda,1990,ATG,0.25648,1.7492034,63087.0,,gdp
+Antigua and Barbuda,1991,ATG,0.263808,1.7430847,63406.0,,gdp
+Antigua and Barbuda,1992,ATG,0.263808,1.7477502,64422.0,,gdp
+Antigua and Barbuda,1993,ATG,0.2748,1.7430847,65601.0,,gdp
+Antigua and Barbuda,1994,ATG,0.285792,1.8660477,66860.0,,gdp
+Antigua and Barbuda,1995,ATG,0.285792,1.9894923,68210.0,,gdp
+Antigua and Barbuda,1996,ATG,0.300448,1.9948328,69629.0,,gdp
+Antigua and Barbuda,1997,ATG,0.322432,2.050145,71071.0,,gdp
+Antigua and Barbuda,1998,ATG,0.337088,2.050145,72430.0,,gdp
+Antigua and Barbuda,1999,ATG,0.355408,2.0501504,73681.0,,gdp
+Antigua and Barbuda,2000,ATG,0.370064,2.1362836,74929.0,,gdp
+Antigua and Barbuda,2001,ATG,0.38838398,2.1362836,76082.0,,gdp
+Antigua and Barbuda,2002,ATG,0.406704,2.2902532,77049.0,,gdp
+Antigua and Barbuda,2003,ATG,0.432352,2.40722,77896.0,,gdp
+Antigua and Barbuda,2004,ATG,0.436016,2.4967196,78734.0,,gdp
+Antigua and Barbuda,2005,ATG,0.443344,2.5349038,79628.0,,gdp
+Antigua and Barbuda,2006,ATG,0.447008,2.6126006,80619.0,,gdp
+Antigua and Barbuda,2007,ATG,0.447008,2.7379866,81716.0,,gdp
+Antigua and Barbuda,2008,ATG,0.450672,2.8008583,82926.0,,gdp
+Antigua and Barbuda,2009,ATG,0.450672,2.934522,84193.0,,gdp
+Antigua and Barbuda,2010,ATG,0.450672,2.8370185,85337.0,,gdp
+Antigua and Barbuda,2011,ATG,0.417696,2.828489,86350.0,,gdp
+Antigua and Barbuda,2012,ATG,0.483648,2.9067843,87275.0,,gdp
+Antigua and Barbuda,2013,ATG,0.51296,2.9068844,88074.0,,gdp
+Antigua and Barbuda,2014,ATG,0.538608,2.9721794,88784.0,,gdp
+Antigua and Barbuda,2015,ATG,0.560592,3.0341225,89421.0,,gdp
+Antigua and Barbuda,2016,ATG,0.578912,3.0791197,89980.0,,gdp
+Antigua and Barbuda,2017,ATG,0.589904,2.9270098,90483.0,,gdp
+Antigua and Barbuda,2018,ATG,0.608224,2.917435,90942.0,,gdp
+Antigua and Barbuda,2019,ATG,0.62288,3.0267084,91377.0,,gdp
+Antigua and Barbuda,2020,ATG,0.597232,2.9243906,91864.0,,gdp
+Antigua and Barbuda,2021,ATG,0.619216,3.0405998,92358.0,,gdp
+Antigua and Barbuda,2022,ATG,0.626544,3.0544302,92850.0,,gdp
+Armenia,1990,ARM,9.443259,,3552130.0,32650114430.0,total_energy_supply
+Armenia,1991,ARM,7.298296,,3613978.0,27959799817.0,total_energy_supply
+Aruba,1990,ABW,0.490976,2.2920136,64452.0,,gdp
+Aruba,1991,ABW,0.534944,2.5002792,66564.0,,gdp
+Aruba,1992,ABW,0.538608,2.746373,68889.0,,gdp
+Aruba,1993,ABW,0.652192,2.7903798,71091.0,,gdp
+Aruba,1994,ABW,0.663184,3.0615923,73475.0,,gdp
+Aruba,1995,ABW,0.71448,3.4651082,75930.0,,gdp
+Aruba,1996,ABW,0.725472,2.2837791,78497.0,,gdp
+Aruba,1997,ABW,0.762112,3.6933842,81123.0,,gdp
+Aruba,1998,ABW,0.809744,3.6933842,83788.0,,gdp
+Aruba,1999,ABW,0.813408,3.6933892,86483.0,,gdp
+Aruba,2000,ABW,2.377936,4.41737,88772.0,,gdp
+Aruba,2001,ABW,2.410912,4.5707107,90320.0,,gdp
+Aruba,2002,ABW,2.440224,4.72478,91393.0,,gdp
+Aruba,2003,ABW,2.5648,5.2614985,92324.0,,gdp
+Aruba,2004,ABW,2.61976,5.486875,93223.0,,gdp
+Aruba,2005,ABW,2.718688,5.9253016,94239.0,,gdp
+Aruba,2006,ABW,2.715024,5.914013,95403.0,,gdp
+Aruba,2007,ABW,2.828608,6.094255,96604.0,,gdp
+Aruba,2008,ABW,2.660064,5.724894,97815.0,,gdp
+Aruba,2009,ABW,2.630752,5.651724,99040.0,,gdp
+Aruba,2010,ABW,2.50984,5.1605988,100127.0,,gdp
+Aruba,2011,ABW,2.498848,4.0527987,100995.0,,gdp
+Aruba,2012,ABW,1.348352,5.0970907,101774.0,,gdp
+Aruba,2013,ABW,0.86104,4.896962,102570.0,,gdp
+Aruba,2014,ABW,0.875696,4.96135,103381.0,,gdp
+Aruba,2015,ABW,0.89768,5.0959563,104200.0,,gdp
+Aruba,2016,ABW,0.883024,4.999515,104989.0,,gdp
+Aruba,2017,ABW,0.890352,5.1875834,105737.0,,gdp
+Aruba,2018,ABW,0.872032,4.9051366,106447.0,,gdp
+Aruba,2019,ABW,0.831728,4.672748,107089.0,,gdp
+Aruba,2020,ABW,0.8244,4.568215,107411.0,,gdp
+Aruba,2021,ABW,0.864704,4.8276005,107565.0,,gdp
+Aruba,2022,ABW,0.886688,4.939797,107792.0,,gdp
+Bahamas,1990,BHS,2.022528,12.011941,275954.0,,gdp
+Bahamas,1991,BHS,1.99688,10.654455,280745.0,,gdp
+Bahamas,1992,BHS,1.86864,9.014254,285938.0,,gdp
+Bahamas,1993,BHS,1.744064,9.518383,291350.0,,gdp
+Bahamas,1994,BHS,1.769712,10.574259,296519.0,,gdp
+Bahamas,1995,BHS,1.839328,12.637075,301471.0,,gdp
+Bahamas,1996,BHS,1.81368,14.246269,306281.0,,gdp
+Bahamas,1997,BHS,1.608496,13.885385,310914.0,,gdp
+Bahamas,1998,BHS,1.989552,15.768511,315376.0,,gdp
+Bahamas,1999,BHS,2.03352,13.869434,319623.0,,gdp
+Bahamas,2000,BHS,2.026192,16.462982,323846.0,,gdp
+Bahamas,2001,BHS,1.9455839,16.77847,327847.0,,gdp
+Bahamas,2002,BHS,2.03352,17.401781,331625.0,,gdp
+Bahamas,2003,BHS,2.07016,12.155077,335625.0,,gdp
+Bahamas,2004,BHS,2.048176,13.472551,339794.0,,gdp
+Bahamas,2005,BHS,2.08848,12.954244,343905.0,,gdp
+Bahamas,2006,BHS,2.03352,15.046232,348386.0,,gdp
+Bahamas,2007,BHS,2.062832,17.3275,353343.0,,gdp
+Bahamas,2008,BHS,2.213056,16.932302,358133.0,,gdp
+Bahamas,2009,BHS,2.410912,12.729477,362806.0,,gdp
+Bahamas,2010,BHS,2.370608,13.261997,367482.0,,gdp
+Bahamas,2011,BHS,2.154432,11.708908,371738.0,,gdp
+Bahamas,2012,BHS,2.08848,13.532392,375474.0,,gdp
+Bahamas,2013,BHS,1.890624,12.590741,378957.0,,gdp
+Bahamas,2014,BHS,1.9455839,12.360112,382312.0,,gdp
+Bahamas,2015,BHS,2.103136,11.815636,385355.0,,gdp
+Bahamas,2016,BHS,2.055504,12.37,388060.0,,gdp
+Bahamas,2017,BHS,2.30832,14.7514515,390496.0,,gdp
+Bahamas,2018,BHS,2.205728,12.15481,392718.0,,gdp
+Bahamas,2019,BHS,2.392592,12.596218,394684.0,,gdp
+Bahamas,2020,BHS,2.004208,10.4798,395874.0,,gdp
+Bahamas,2021,BHS,2.506176,13.323683,396381.0,,gdp
+Bahamas,2022,BHS,2.671056,12.39735,397542.0,,gdp
+Belize,1990,BLZ,0.315104,1.4332347,183090.0,,gdp
+Belize,1991,BLZ,0.410368,1.6237203,187056.0,,gdp
+Belize,1992,BLZ,0.362736,1.3610418,190995.0,,gdp
+Belize,1993,BLZ,0.38472,1.3575215,194916.0,,gdp
+Belize,1994,BLZ,0.381056,1.295293,199101.0,,gdp
+Belize,1995,BLZ,0.38472,1.5210333,204165.0,,gdp
+Belize,1996,BLZ,0.318768,1.3089889,210321.0,,gdp
+Belize,1997,BLZ,0.395712,2.074529,217459.0,,gdp
+Belize,1998,BLZ,0.381056,2.0438108,225186.0,,gdp
+Belize,1999,BLZ,0.359072,2.1103473,233066.0,,gdp
+Belize,2000,BLZ,0.40304,2.1772125,240809.0,,gdp
+Belize,2001,BLZ,0.458,2.4255233,248393.0,,gdp
+Belize,2002,BLZ,0.436016,2.3449051,256019.0,,gdp
+Belize,2003,BLZ,0.436016,2.3540387,263794.0,,gdp
+Belize,2004,BLZ,0.395712,2.254401,271695.0,,gdp
+Belize,2005,BLZ,0.425024,2.4282012,279747.0,,gdp
+Belize,2006,BLZ,0.450672,2.6016908,287889.0,,gdp
+Belize,2007,BLZ,0.479984,2.4353533,296117.0,,gdp
+Belize,2008,BLZ,0.43968,2.3017504,304373.0,,gdp
+Belize,2009,BLZ,0.520288,2.4536624,312619.0,,gdp
+Belize,2010,BLZ,0.545936,2.9689152,320256.0,,gdp
+Belize,2011,BLZ,0.578912,2.4059174,327306.0,,gdp
+Belize,2012,BLZ,0.481213,2.808727,334421.0,,gdp
+Belize,2013,BLZ,0.478058,2.9019098,341635.0,,gdp
+Belize,2014,BLZ,0.509911,2.7748415,348934.0,,gdp
+Belize,2015,BLZ,0.692906,3.187165,356341.0,,gdp
+Belize,2016,BLZ,0.681991,3.1915267,364717.0,,gdp
+Belize,2017,BLZ,0.67432797,3.5948057,373215.0,,gdp
+Belize,2018,BLZ,0.667116,3.5753198,380232.0,,gdp
+Belize,2019,BLZ,0.777065,4.3318124,385833.0,,gdp
+Belize,2020,BLZ,0.656262,3.4634116,390819.0,,gdp
+Belize,2021,BLZ,0.706885,3.5200236,395355.0,,gdp
+Belize,2022,BLZ,0.732306,3.727039,402741.0,,gdp
+Bermuda,1990,BMU,0.505632,2.728658,57584.0,,gdp
+Bermuda,1991,BMU,0.5496,2.3905973,58007.0,,gdp
+Bermuda,1992,BMU,0.465328,1.8676964,58430.0,,gdp
+Bermuda,1993,BMU,0.5496,2.1701834,58834.0,,gdp
+Bermuda,1994,BMU,0.542272,2.0913994,59214.0,,gdp
+Bermuda,1995,BMU,0.538608,2.145094,59549.0,,gdp
+Bermuda,1996,BMU,0.534944,2.213328,59836.0,,gdp
+Bermuda,1997,BMU,0.53128,2.2074046,60194.0,,gdp
+Bermuda,1998,BMU,0.53128,2.2074046,60659.0,,gdp
+Bermuda,1999,BMU,0.516624,2.207409,61142.0,,gdp
+Bermuda,2000,BMU,0.523952,2.43193,61569.0,,gdp
+Bermuda,2001,BMU,0.534944,2.4697042,61887.0,,gdp
+Bermuda,2002,BMU,0.556928,2.597477,62163.0,,gdp
+Bermuda,2003,BMU,0.564256,2.5915184,62405.0,,gdp
+Bermuda,2004,BMU,0.582576,2.6823728,62576.0,,gdp
+Bermuda,2005,BMU,0.582576,2.8233912,62730.0,,gdp
+Bermuda,2006,BMU,0.655856,3.185761,62855.0,,gdp
+Bermuda,2007,BMU,0.729136,3.698018,63030.0,,gdp
+Bermuda,2008,BMU,0.644864,3.5356352,63319.0,,gdp
+Bermuda,2009,BMU,0.47632,2.784723,63587.0,,gdp
+Bermuda,2010,BMU,0.608224,3.2746859,63748.0,,gdp
+Bermuda,2011,BMU,0.443344,2.1219835,63753.0,,gdp
+Bermuda,2012,BMU,0.370064,2.2931452,63665.0,,gdp
+Bermuda,2013,BMU,0.534944,2.3033888,63593.0,,gdp
+Bermuda,2014,BMU,0.666848,2.9780939,63551.0,,gdp
+Bermuda,2015,BMU,0.545936,2.5066783,63482.0,,gdp
+Bermuda,2016,BMU,0.619216,3.1858068,63466.0,,gdp
+Bermuda,2017,BMU,0.6412,3.1440365,63603.0,,gdp
+Bermuda,2018,BMU,0.703488,3.082279,63852.0,,gdp
+Bermuda,2019,BMU,0.615552,2.6816046,64130.0,,gdp
+Bermuda,2020,BMU,0.443344,1.9766589,64404.0,,gdp
+Bermuda,2021,BMU,0.509296,2.3121316,64672.0,,gdp
+Bermuda,2022,BMU,0.53128,2.3609836,64772.0,,gdp
+Bhutan,1990,BTN,0.189394,0.57369965,589295.0,,gdp
+Bhutan,1991,BTN,0.189402,0.59342474,599789.0,,gdp
+Bhutan,1992,BTN,0.215989,0.60023284,577780.0,,gdp
+Bhutan,1993,BTN,0.181786,0.63080037,554680.0,,gdp
+Bhutan,1994,BTN,0.213392,0.78495383,554509.0,,gdp
+Bhutan,1995,BTN,0.248966,0.9527125,547995.0,,gdp
+Bhutan,1996,BTN,0.2992,1.0863255,548792.0,,gdp
+Bhutan,1997,BTN,0.393776,1.2560323,558698.0,,gdp
+Bhutan,1998,BTN,0.385859,1.2301127,569439.0,,gdp
+Bhutan,1999,BTN,0.389533,1.265971,582589.0,,gdp
+Bhutan,2000,BTN,0.397516,1.4077158,596871.0,,gdp
+Bhutan,2001,BTN,0.464132,1.5935937,610801.0,,gdp
+Bhutan,2002,BTN,0.497119,1.757477,624417.0,,gdp
+Bhutan,2003,BTN,0.497129,1.8417838,637667.0,,gdp
+Bhutan,2004,BTN,0.439817,2.0019546,650559.0,,gdp
+Bhutan,2005,BTN,0.546583,2.3184474,661875.0,,gdp
+Bhutan,2006,BTN,0.41183,3.4166346,670803.0,,gdp
+Bhutan,2007,BTN,0.40085,2.6127164,678643.0,,gdp
+Bhutan,2008,BTN,0.64635,2.4200196,686359.0,,gdp
+Bhutan,2009,BTN,0.683001,3.1127293,693994.0,,gdp
+Bhutan,2010,BTN,0.905464,3.6445231,701638.0,,gdp
+Bhutan,2011,BTN,1.010487,3.7842689,709387.0,,gdp
+Bhutan,2012,BTN,1.156643,4.1313124,717288.0,,gdp
+Bhutan,2013,BTN,1.272635,4.4147635,725282.0,,gdp
+Bhutan,2014,BTN,1.339663,4.400392,733151.0,,gdp
+Bhutan,2015,BTN,1.442071,4.60522,740623.0,,gdp
+Bhutan,2016,BTN,1.566673,5.073199,747878.0,,gdp
+Bhutan,2017,BTN,1.652951,5.387447,754343.0,,gdp
+Bhutan,2018,BTN,1.686398,6.1508636,759766.0,,gdp
+Bhutan,2019,BTN,1.596581,6.2747827,764830.0,,gdp
+Bhutan,2020,BTN,1.387733,9.084891,770013.0,,gdp
+Bhutan,2021,BTN,1.48868,14.648405,775450.0,,gdp
+Bhutan,2022,BTN,1.573973,15.743993,780921.0,,gdp
+Bonaire Sint Eustatius and Saba,1990,BES,0.086419,,12958.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,1991,BES,0.069627,,13070.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,1992,BES,0.05786,,13186.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,1993,BES,0.092588,,13297.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,1994,BES,0.089675,,13407.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,1995,BES,0.08899,,13531.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,1996,BES,0.083792,,13670.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,1997,BES,0.087447,,13812.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,1998,BES,0.008054,,13959.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,1999,BES,0.036498,,14101.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,2000,BES,0.091046,,14256.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,2001,BES,0.092588,,14526.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,2002,BES,0.089389,,15033.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,2003,BES,0.089218,,15666.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,2004,BES,0.093559,,16330.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,2005,BES,0.092759,,17002.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,2006,BES,0.097557,,17701.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,2007,BES,0.109438,,18408.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,2008,BES,0.105497,,19118.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,2009,BES,0.107667,,19847.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,2010,BES,0.075681,,20583.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,2011,BES,0.09533,,21650.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,2012,BES,0.098928,,22847.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,2013,BES,0.098928,,23835.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,2014,BES,0.10992,,24491.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,2015,BES,0.10992,,24638.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,2016,BES,0.120912,,24567.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,2017,BES,0.117248,,24821.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,2018,BES,0.117248,,25184.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,2019,BES,0.124576,,25652.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,2020,BES,0.120912,,26476.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,2021,BES,0.139232,,27347.0,,"total_energy_supply, gdp"
+Bonaire Sint Eustatius and Saba,2022,BES,0.150224,,28654.0,,"total_energy_supply, gdp"
+Bosnia and Herzegovina,1990,BIH,20.102741,,4448658.0,26068545854.0,total_energy_supply
+Bosnia and Herzegovina,1991,BIH,14.297109,,4458350.0,22759463465.0,total_energy_supply
+British Virgin Islands,1990,VGB,0.065952,0.19365312,15727.0,,gdp
+British Virgin Islands,1991,VGB,0.07328,0.19365312,16208.0,,gdp
+British Virgin Islands,1992,VGB,0.080608,0.19415328,16615.0,,gdp
+British Virgin Islands,1993,VGB,0.084272,0.19365312,17008.0,,gdp
+British Virgin Islands,1994,VGB,0.087936,0.19365312,17430.0,,gdp
+British Virgin Islands,1995,VGB,0.087936,0.19365312,17863.0,,gdp
+British Virgin Islands,1996,VGB,0.098928,0.25049904,18308.0,,gdp
+British Virgin Islands,1997,VGB,0.102592,0.24984495,18783.0,,gdp
+British Virgin Islands,1998,VGB,0.102592,0.24984495,19262.0,,gdp
+British Virgin Islands,1999,VGB,0.113584,0.24984986,19755.0,,gdp
+British Virgin Islands,2000,VGB,0.10992,0.43747738,20266.0,,gdp
+British Virgin Islands,2001,VGB,0.120912,0.44774383,20825.0,,gdp
+British Virgin Islands,2002,VGB,0.135568,0.47361106,21454.0,,gdp
+British Virgin Islands,2003,VGB,0.139232,0.5059557,22155.0,,gdp
+British Virgin Islands,2004,VGB,0.14656,0.53182286,22905.0,,gdp
+British Virgin Islands,2005,VGB,0.157552,0.5471052,23693.0,,gdp
+British Virgin Islands,2006,VGB,0.172208,0.5960057,24519.0,,gdp
+British Virgin Islands,2007,VGB,0.175872,0.61785394,25391.0,,gdp
+British Virgin Islands,2008,VGB,0.1832,0.6638748,26308.0,,gdp
+British Virgin Islands,2009,VGB,0.1832,0.6958252,27240.0,,gdp
+British Virgin Islands,2010,VGB,0.20152,0.7149748,27698.0,,gdp
+British Virgin Islands,2011,VGB,0.197856,0.732029,28733.0,,gdp
+British Virgin Islands,2012,VGB,0.20152,0.72948194,30369.0,,gdp
+British Virgin Islands,2013,VGB,0.20152,0.72948194,31727.0,,gdp
+British Virgin Islands,2014,VGB,0.205184,0.741164,32988.0,,gdp
+British Virgin Islands,2015,VGB,0.212512,0.7439111,34523.0,,gdp
+British Virgin Islands,2016,VGB,0.216176,0.7538882,33904.0,,gdp
+British Virgin Islands,2017,VGB,0.172208,0.70896566,32724.0,,gdp
+British Virgin Islands,2018,VGB,0.150224,0.66937685,34682.0,,gdp
+British Virgin Islands,2019,VGB,0.172208,0.76386,36423.0,,gdp
+British Virgin Islands,2020,VGB,0.172208,0.749608,37161.0,,gdp
+British Virgin Islands,2021,VGB,0.175872,0.76508796,37833.0,,gdp
+British Virgin Islands,2022,VGB,0.175872,0.7766291,38346.0,,gdp
+Brunei,1990,BRN,5.023344,20.552052,255307.0,,gdp
+Brunei,1991,BRN,6.910304,16.424734,262604.0,,gdp
+Brunei,1992,BRN,6.774736,16.060816,269848.0,,gdp
+Brunei,1993,BRN,5.957664,15.26527,276978.0,,gdp
+Brunei,1994,BRN,5.39908,14.671357,284098.0,,gdp
+Brunei,1995,BRN,5.990741,18.145622,291207.0,,gdp
+Brunei,1996,BRN,6.068782,16.899364,298283.0,,gdp
+Brunei,1997,BRN,6.285102,18.07261,305357.0,,gdp
+Brunei,1998,BRN,5.697871,16.34575,312398.0,,gdp
+Brunei,1999,BRN,6.087971,19.285837,319412.0,,gdp
+Brunei,2000,BRN,6.006632,19.663832,326429.0,,gdp
+Brunei,2001,BRN,5.882112,22.35729,333353.0,,gdp
+Brunei,2002,BRN,5.406338,26.106573,340108.0,,gdp
+Brunei,2003,BRN,6.268325,27.008535,346650.0,,gdp
+Brunei,2004,BRN,5.973592,29.992191,352921.0,,gdp
+Brunei,2005,BRN,5.435448,33.786713,358930.0,,gdp
+Brunei,2006,BRN,7.1510158,52.069736,364670.0,,gdp
+Brunei,2007,BRN,8.087689,54.662086,370883.0,,gdp
+Brunei,2008,BRN,9.180217,56.141193,377800.0,,gdp
+Brunei,2009,BRN,7.752025,37.24468,384965.0,,gdp
+Brunei,2010,BRN,8.028171,42.422886,392340.0,,gdp
+Brunei,2011,BRN,9.601503,43.576885,399395.0,,gdp
+Brunei,2012,BRN,9.581282,42.35732,405564.0,,gdp
+Brunei,2013,BRN,7.561246,39.393856,411205.0,,gdp
+Brunei,2014,BRN,8.762006,44.304802,416757.0,,gdp
+Brunei,2015,BRN,6.912176,48.95813,422223.0,,gdp
+Brunei,2016,BRN,7.635884,51.140396,427571.0,,gdp
+Brunei,2017,BRN,9.290254,51.34614,432787.0,,gdp
+Brunei,2018,BRN,9.383442,53.279446,437811.0,,gdp
+Brunei,2019,BRN,9.602379,53.85089,442690.0,,gdp
+Brunei,2020,BRN,11.177763,58.718773,447411.0,,gdp
+Brunei,2021,BRN,11.589063,55.753845,451722.0,,gdp
+Brunei,2022,BRN,12.439535,53.75579,455374.0,,gdp
+Christmas Island,1990,CXR,,,,,"co2, total_energy_supply, population, gdp"
+Christmas Island,1991,CXR,,,,,"co2, total_energy_supply, population, gdp"
+Christmas Island,1992,CXR,,,,,"co2, total_energy_supply, population, gdp"
+Christmas Island,1993,CXR,,,,,"co2, total_energy_supply, population, gdp"
+Christmas Island,1994,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,1995,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,1996,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,1997,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,1998,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,1999,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,2000,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,2001,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,2002,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,2003,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,2004,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,2005,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,2006,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,2007,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,2008,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,2009,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,2010,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,2011,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,2012,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,2013,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,2014,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,2015,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,2016,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,2017,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,2018,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,2019,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,2020,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,2021,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Christmas Island,2022,CXR,0.0,,,,"total_energy_supply, population, gdp"
+Cook Islands,1990,COK,0.040304,0.18361562,17146.0,,gdp
+Cook Islands,1991,COK,0.040304,0.12627813,17329.0,,gdp
+Cook Islands,1992,COK,0.040304,0.18421867,17495.0,,gdp
+Cook Islands,1993,COK,0.043968,0.18371561,17615.0,,gdp
+Cook Islands,1994,COK,0.043968,0.18371561,17710.0,,gdp
+Cook Islands,1995,COK,0.043968,0.18371561,17801.0,,gdp
+Cook Islands,1996,COK,0.051296,0.18421867,17880.0,,gdp
+Cook Islands,1997,COK,0.051296,0.18371561,17648.0,,gdp
+Cook Islands,1998,COK,0.051296,0.18371561,17102.0,,gdp
+Cook Islands,1999,COK,0.051296,0.18371561,16508.0,,gdp
+Cook Islands,2000,COK,0.051296,0.2736492,15876.0,,gdp
+Cook Islands,2001,COK,0.05496,0.26101318,15259.0,,gdp
+Cook Islands,2002,COK,0.043968,0.141337,14994.0,,gdp
+Cook Islands,2003,COK,0.047632,0.13034695,15049.0,,gdp
+Cook Islands,2004,COK,0.051296,0.22123009,15103.0,,gdp
+Cook Islands,2005,COK,0.058624,0.35426825,15153.0,,gdp
+Cook Islands,2006,COK,0.065952,0.3774819,15233.0,,gdp
+Cook Islands,2007,COK,0.065952,0.3184724,15519.0,,gdp
+Cook Islands,2008,COK,0.065952,0.32720524,16003.0,,gdp
+Cook Islands,2009,COK,0.062288,0.30144325,16497.0,,gdp
+Cook Islands,2010,COK,0.069616,0.35809883,17000.0,,gdp
+Cook Islands,2011,COK,0.076944,0.40184906,17480.0,,gdp
+Cook Islands,2012,COK,0.080608,0.42605957,17690.0,,gdp
+Cook Islands,2013,COK,0.080608,0.42444628,17629.0,,gdp
+Cook Islands,2014,COK,0.080608,0.448217,17556.0,,gdp
+Cook Islands,2015,COK,0.076944,0.4163601,17471.0,,gdp
+Cook Islands,2016,COK,0.076944,0.4322685,17360.0,,gdp
+Cook Islands,2017,COK,0.076944,0.46200678,17066.0,,gdp
+Cook Islands,2018,COK,0.076944,0.47133282,16623.0,,gdp
+Cook Islands,2019,COK,0.080608,0.47252205,16151.0,,gdp
+Cook Islands,2020,COK,0.065952,0.3291592,15664.0,,gdp
+Cook Islands,2021,COK,0.07328,0.34708497,15205.0,,gdp
+Cook Islands,2022,COK,0.076944,0.414377,14747.0,,gdp
+Curacao,1990,CUW,4.785063,,155750.0,,"total_energy_supply, gdp"
+Curacao,1991,CUW,3.855249,,155455.0,,"total_energy_supply, gdp"
+Curacao,1992,CUW,3.203747,,155101.0,,"total_energy_supply, gdp"
+Curacao,1993,CUW,5.126628,,154504.0,,"total_energy_supply, gdp"
+Curacao,1994,CUW,4.965333,,153677.0,,"total_energy_supply, gdp"
+Curacao,1995,CUW,4.927382,,152705.0,,"total_energy_supply, gdp"
+Curacao,1996,CUW,4.639582,,151582.0,,"total_energy_supply, gdp"
+Curacao,1997,CUW,4.841991,,150316.0,,"total_energy_supply, gdp"
+Curacao,1998,CUW,0.445931,,148874.0,,"total_energy_supply, gdp"
+Curacao,1999,CUW,2.020922,,147276.0,,"total_energy_supply, gdp"
+Curacao,2000,CUW,5.041237,,145540.0,,"total_energy_supply, gdp"
+Curacao,2001,CUW,5.126628,,144758.0,,"total_energy_supply, gdp"
+Curacao,2002,CUW,4.94952,,145911.0,,"total_energy_supply, gdp"
+Curacao,2003,CUW,4.940032,,147923.0,,"total_energy_supply, gdp"
+Curacao,2004,CUW,5.180393,,149805.0,,"total_energy_supply, gdp"
+Curacao,2005,CUW,5.136116,,151324.0,,"total_energy_supply, gdp"
+Curacao,2006,CUW,5.401777,,152516.0,,"total_energy_supply, gdp"
+Curacao,2007,CUW,6.059604,,153672.0,,"total_energy_supply, gdp"
+Curacao,2008,CUW,5.841383,,154784.0,,"total_energy_supply, gdp"
+Curacao,2009,CUW,5.961563,,155832.0,,"total_energy_supply, gdp"
+Curacao,2010,CUW,4.190488,,156881.0,,"total_energy_supply, gdp"
+Curacao,2011,CUW,5.278434,,158572.0,,"total_energy_supply, gdp"
+Curacao,2012,CUW,5.47768,,160904.0,,"total_energy_supply, gdp"
+Curacao,2013,CUW,5.228528,,163122.0,,"total_energy_supply, gdp"
+Curacao,2014,CUW,6.126208,,165041.0,,"total_energy_supply, gdp"
+Curacao,2015,CUW,6.672144,,166621.0,,"total_energy_supply, gdp"
+Curacao,2016,CUW,5.539968,,167787.0,,"total_energy_supply, gdp"
+Curacao,2017,CUW,4.319856,,168525.0,,"total_energy_supply, gdp"
+Curacao,2018,CUW,3.689648,,181590.0,,"total_energy_supply, gdp"
+Curacao,2019,CUW,1.623152,,189555.0,,"total_energy_supply, gdp"
+Curacao,2020,CUW,1.33736,,185029.0,,"total_energy_supply, gdp"
+Curacao,2021,CUW,1.469264,,185324.0,,"total_energy_supply, gdp"
+Curacao,2022,CUW,1.53888,,185350.0,,"total_energy_supply, gdp"
+East Timor,1990,TLS,,,760348.0,,"co2, total_energy_supply, gdp"
+East Timor,1991,TLS,,,778286.0,,"co2, total_energy_supply, gdp"
+East Timor,1992,TLS,,,799323.0,,"co2, total_energy_supply, gdp"
+East Timor,1993,TLS,,,821445.0,,"co2, total_energy_supply, gdp"
+East Timor,1994,TLS,0.0,,844501.0,,"total_energy_supply, gdp"
+East Timor,1995,TLS,0.0,,868152.0,,"total_energy_supply, gdp"
+East Timor,1996,TLS,0.0,,892289.0,,"total_energy_supply, gdp"
+East Timor,1997,TLS,0.0,,917189.0,,"total_energy_supply, gdp"
+East Timor,1998,TLS,0.060535,,942537.0,,"total_energy_supply, gdp"
+East Timor,1999,TLS,0.152974,,834699.0,,"total_energy_supply, gdp"
+East Timor,2000,TLS,0.21986,,745095.0,,"total_energy_supply, gdp"
+East Timor,2001,TLS,0.118844,,812253.0,,"total_energy_supply, gdp"
+East Timor,2002,TLS,0.261882,,879170.0,,"total_energy_supply, gdp"
+East Timor,2003,TLS,0.252194,0.6991211,916876.0,,gdp
+East Timor,2004,TLS,0.496998,0.7570248,929081.0,,gdp
+East Timor,2005,TLS,0.321145,0.75966024,948310.0,,gdp
+East Timor,2006,TLS,0.318468,0.775031,976610.0,,gdp
+East Timor,2007,TLS,0.291731,0.80221593,1004898.0,,gdp
+East Timor,2008,TLS,0.288797,0.8816597,1032431.0,,gdp
+East Timor,2009,TLS,0.325447,0.9865739,1058783.0,,gdp
+East Timor,2010,TLS,0.316812,1.0268908,1084688.0,,gdp
+East Timor,2011,TLS,0.377004,1.0654932,1110212.0,,gdp
+East Timor,2012,TLS,0.472061,1.2609509,1134891.0,,gdp
+East Timor,2013,TLS,0.46938398,1.898904,1158697.0,,gdp
+East Timor,2014,TLS,0.513563,2.1790795,1181913.0,,gdp
+East Timor,2015,TLS,0.470922,2.1366088,1205133.0,,gdp
+East Timor,2016,TLS,0.559441,2.0895452,1228314.0,,gdp
+East Timor,2017,TLS,0.603883,2.1312716,1251711.0,,gdp
+East Timor,2018,TLS,0.578379,2.2446494,1275962.0,,gdp
+East Timor,2019,TLS,0.643901,2.7141316,1300946.0,,gdp
+East Timor,2020,TLS,0.630738,2.6006868,1326051.0,,gdp
+East Timor,2021,TLS,0.624782,2.5470695,1350142.0,,gdp
+East Timor,2022,TLS,0.693109,2.7063656,1369299.0,,gdp
+Eritrea,1990,ERI,,,2032749.0,,"co2, total_energy_supply, gdp"
+Eritrea,1991,ERI,,,1919575.0,,"co2, total_energy_supply, gdp"
+Eritrea,1992,ERI,,,1798750.0,,"co2, total_energy_supply, gdp"
+Eritrea,1993,ERI,,,1856017.0,,"co2, total_energy_supply, gdp"
+Eritrea,1994,ERI,0.707194,3.8837404,1913919.0,,gdp
+Eritrea,1995,ERI,0.797139,4.4491568,2025273.0,,gdp
+Eritrea,1996,ERI,0.869167,4.5475116,2128464.0,,gdp
+Eritrea,1997,ERI,0.77182597,4.5953875,2152146.0,,gdp
+Eritrea,1998,ERI,0.593497,4.880089,2180423.0,,gdp
+Eritrea,1999,ERI,0.626445,5.065363,2212785.0,,gdp
+Eritrea,2000,ERI,0.608097,2.5972502,2247036.0,,gdp
+Eritrea,2001,ERI,0.644665,2.8453827,2312083.0,,gdp
+Eritrea,2002,ERI,0.516353,2.594277,2392981.0,,gdp
+Eritrea,2003,ERI,0.791081,3.1098452,2493906.0,,gdp
+Eritrea,2004,ERI,0.644449,3.386927,2598288.0,,gdp
+Eritrea,2005,ERI,0.593081,3.3890822,2661215.0,,gdp
+Eritrea,2006,ERI,0.457346,2.3284929,2703501.0,,gdp
+Eritrea,2007,ERI,0.427791,2.391225,2743226.0,,gdp
+Eritrea,2008,ERI,0.402029,1.7037936,2816331.0,,gdp
+Eritrea,2009,ERI,0.45334598,2.0603268,2887887.0,,gdp
+Eritrea,2010,ERI,0.475353,2.0539815,2945184.0,,gdp
+Eritrea,2011,ERI,0.585146,2.0928564,2998493.0,,gdp
+Eritrea,2012,ERI,0.615557,2.224815,3036998.0,,gdp
+Eritrea,2013,ERI,0.573174,2.269763,3074367.0,,gdp
+Eritrea,2014,ERI,0.57643497,2.37065,3095168.0,,gdp
+Eritrea,2015,ERI,0.564853,2.3520808,3105554.0,,gdp
+Eritrea,2016,ERI,0.564811,2.3943567,3124700.0,,gdp
+Eritrea,2017,ERI,0.564389,2.6301863,3150350.0,,gdp
+Eritrea,2018,ERI,0.626688,2.6168737,3192763.0,,gdp
+Eritrea,2019,ERI,0.655579,2.5862288,3240194.0,,gdp
+Eritrea,2020,ERI,0.652269,2.5252995,3291277.0,,gdp
+Eritrea,2021,ERI,0.695924,2.6612744,3350185.0,,gdp
+Eritrea,2022,ERI,0.732583,2.8824134,3409450.0,,gdp
+Faroe Islands,1990,FRO,0.710816,2.7617583,47525.0,,gdp
+Faroe Islands,1991,FRO,0.663184,2.5363863,46839.0,,gdp
+Faroe Islands,1992,FRO,0.655856,2.5412755,46043.0,,gdp
+Faroe Islands,1993,FRO,0.58624,2.498049,45160.0,,gdp
+Faroe Islands,1994,FRO,0.582576,2.5625415,44195.0,,gdp
+Faroe Islands,1995,FRO,0.578912,2.755087,43863.0,,gdp
+Faroe Islands,1996,FRO,0.60456,2.7645173,44203.0,,gdp
+Faroe Islands,1997,FRO,0.589904,2.7626278,44568.0,,gdp
+Faroe Islands,1998,FRO,0.626544,2.7641313,44920.0,,gdp
+Faroe Islands,1999,FRO,0.637536,2.7571006,45242.0,,gdp
+Faroe Islands,2000,FRO,0.692496,3.060644,45687.0,,gdp
+Faroe Islands,2001,FRO,0.76944,3.3824625,46262.0,,gdp
+Faroe Islands,2002,FRO,0.7328,3.271118,46852.0,,gdp
+Faroe Islands,2003,FRO,0.736464,3.276175,47448.0,,gdp
+Faroe Islands,2004,FRO,0.75112,3.3473387,48041.0,,gdp
+Faroe Islands,2005,FRO,0.725472,3.2623632,48386.0,,gdp
+Faroe Islands,2006,FRO,0.67784,3.2193372,48456.0,,gdp
+Faroe Islands,2007,FRO,0.692496,3.35733,48498.0,,gdp
+Faroe Islands,2008,FRO,0.633872,3.1116767,48528.0,,gdp
+Faroe Islands,2009,FRO,0.575248,2.8787608,48512.0,,gdp
+Faroe Islands,2010,FRO,0.626544,3.0441465,48191.0,,gdp
+Faroe Islands,2011,FRO,0.564256,2.8559086,47957.0,,gdp
+Faroe Islands,2012,FRO,0.593568,2.9214694,48113.0,,gdp
+Faroe Islands,2013,FRO,0.648528,3.196123,48297.0,,gdp
+Faroe Islands,2014,FRO,0.597232,2.908738,48515.0,,gdp
+Faroe Islands,2015,FRO,0.608224,3.084901,48916.0,,gdp
+Faroe Islands,2016,FRO,0.626544,3.1290338,49554.0,,gdp
+Faroe Islands,2017,FRO,0.703488,3.5334587,50268.0,,gdp
+Faroe Islands,2018,FRO,0.725472,3.6409144,51062.0,,gdp
+Faroe Islands,2019,FRO,0.740128,3.3843267,51868.0,,gdp
+Faroe Islands,2020,FRO,0.758448,3.5884821,52615.0,,gdp
+Faroe Islands,2021,FRO,0.784096,3.7246943,53324.0,,gdp
+Faroe Islands,2022,FRO,0.718144,3.485846,54039.0,,gdp
+Fiji,1990,FJI,0.815712,4.647737,773325.0,,gdp
+Fiji,1991,FJI,0.669688,3.9598594,779666.0,,gdp
+Fiji,1992,FJI,0.744965,4.1198096,785349.0,,gdp
+Fiji,1993,FJI,0.743303,4.3775983,790380.0,,gdp
+Fiji,1994,FJI,0.734291,4.4804487,794779.0,,gdp
+Fiji,1995,FJI,0.751139,4.843629,798750.0,,gdp
+Fiji,1996,FJI,0.807103,4.9764743,803788.0,,gdp
+Fiji,1997,FJI,0.775277,4.9662566,812145.0,,gdp
+Fiji,1998,FJI,0.754295,4.821786,822259.0,,gdp
+Fiji,1999,FJI,0.767459,5.2409244,831835.0,,gdp
+Fiji,2000,FJI,0.825846,7.036586,840913.0,,gdp
+Fiji,2001,FJI,1.011264,7.267798,849606.0,,gdp
+Fiji,2002,FJI,0.84272,5.999497,858057.0,,gdp
+Fiji,2003,FJI,1.000272,6.9120727,866297.0,,gdp
+Fiji,2004,FJI,1.311712,9.275625,874369.0,,gdp
+Fiji,2005,FJI,1.040576,7.9099884,882384.0,,gdp
+Fiji,2006,FJI,1.168816,8.69645,890370.0,,gdp
+Fiji,2007,FJI,1.0992,8.0000305,897843.0,,gdp
+Fiji,2008,FJI,0.80608,5.9965215,903403.0,,gdp
+Fiji,2009,FJI,0.729136,5.139314,907248.0,,gdp
+Fiji,2010,FJI,1.04424,7.435579,910427.0,,gdp
+Fiji,2011,FJI,0.945312,5.487805,912991.0,,gdp
+Fiji,2012,FJI,0.919664,5.4754105,914920.0,,gdp
+Fiji,2013,FJI,0.959968,5.988571,916359.0,,gdp
+Fiji,2014,FJI,1.08088,6.5998077,917589.0,,gdp
+Fiji,2015,FJI,1.220112,7.712883,918585.0,,gdp
+Fiji,2016,FJI,1.271644,7.87456,919167.0,,gdp
+Fiji,2017,FJI,1.42516,8.036531,918762.0,,gdp
+Fiji,2018,FJI,1.35568,8.803972,917185.0,,gdp
+Fiji,2019,FJI,1.428842,9.002262,914906.0,,gdp
+Fiji,2020,FJI,1.381328,6.745569,914971.0,,gdp
+Fiji,2021,FJI,1.102864,5.9133835,916718.0,,gdp
+Fiji,2022,FJI,1.388656,7.8247056,919428.0,,gdp
+French Guiana,1990,GUF,0.706546,2.8083107,112699.0,,gdp
+French Guiana,1991,GUF,0.79622,3.0847182,116988.0,,gdp
+French Guiana,1992,GUF,0.804912,2.5445678,121257.0,,gdp
+French Guiana,1993,GUF,0.855582,3.3932683,125658.0,,gdp
+French Guiana,1994,GUF,0.764435,3.3932683,130128.0,,gdp
+French Guiana,1995,GUF,0.709766,3.956866,134644.0,,gdp
+French Guiana,1996,GUF,0.586566,3.90019,139180.0,,gdp
+French Guiana,1997,GUF,0.550757,3.956866,143736.0,,gdp
+French Guiana,1998,GUF,0.64272,3.956866,148390.0,,gdp
+French Guiana,1999,GUF,0.520366,3.956867,153752.0,,gdp
+French Guiana,2000,GUF,0.504464,2.2505774,160633.0,,gdp
+French Guiana,2001,GUF,0.560137,3.0485272,168544.0,,gdp
+French Guiana,2002,GUF,0.511774,2.7459207,176719.0,,gdp
+French Guiana,2003,GUF,0.646124,3.3443573,185101.0,,gdp
+French Guiana,2004,GUF,0.636141,3.3151317,193656.0,,gdp
+French Guiana,2005,GUF,0.600904,3.2780612,202452.0,,gdp
+French Guiana,2006,GUF,0.511195,2.9696426,210976.0,,gdp
+French Guiana,2007,GUF,0.599873,3.2961872,219123.0,,gdp
+French Guiana,2008,GUF,0.584676,3.3445742,226106.0,,gdp
+French Guiana,2009,GUF,0.767861,4.1420884,230715.0,,gdp
+French Guiana,2010,GUF,0.714761,3.8369987,234578.0,,gdp
+French Guiana,2011,GUF,0.717045,3.3590043,239525.0,,gdp
+French Guiana,2012,GUF,0.710284,0.0,245784.0,,gdp
+French Guiana,2013,GUF,0.696678,0.0,253250.0,,gdp
+French Guiana,2014,GUF,0.693854,0.0,260564.0,,gdp
+French Guiana,2015,GUF,0.704467,0.0,266377.0,,gdp
+French Guiana,2016,GUF,0.72054,0.0,271278.0,,gdp
+French Guiana,2017,GUF,0.712099,0.0,276158.0,,gdp
+French Guiana,2018,GUF,0.710019,0.0,280972.0,,gdp
+French Guiana,2019,GUF,0.727329,0.0,285574.0,,gdp
+French Guiana,2020,GUF,0.652823,0.0,289063.0,,gdp
+French Guiana,2021,GUF,0.668189,0.0,293023.0,,gdp
+French Guiana,2022,GUF,0.666898,0.0,298319.0,,gdp
+French Polynesia,1990,PYF,0.53128,3.8521154,203780.0,,gdp
+French Polynesia,1991,PYF,0.534944,3.8752577,207755.0,,gdp
+French Polynesia,1992,PYF,0.509296,3.644236,211570.0,,gdp
+French Polynesia,1993,PYF,0.527616,3.6385915,215229.0,,gdp
+French Polynesia,1994,PYF,0.542272,2.8987815,218747.0,,gdp
+French Polynesia,1995,PYF,0.53128,3.0446258,222128.0,,gdp
+French Polynesia,1996,PYF,0.53128,3.0042486,225500.0,,gdp
+French Polynesia,1997,PYF,0.5496,3.0526257,229132.0,,gdp
+French Polynesia,1998,PYF,0.542272,3.0706258,232898.0,,gdp
+French Polynesia,1999,PYF,0.600896,3.0066307,236606.0,,gdp
+French Polynesia,2000,PYF,0.692496,3.3332965,240346.0,,gdp
+French Polynesia,2001,PYF,0.77676797,3.697778,244107.0,,gdp
+French Polynesia,2002,PYF,0.817072,3.8961084,247785.0,,gdp
+French Polynesia,2003,PYF,0.846384,4.193488,251650.0,,gdp
+French Polynesia,2004,PYF,0.850048,4.1251097,255663.0,,gdp
+French Polynesia,2005,PYF,0.84272,4.309448,259517.0,,gdp
+French Polynesia,2006,PYF,0.846384,4.222418,263234.0,,gdp
+French Polynesia,2007,PYF,0.864704,4.455604,266448.0,,gdp
+French Polynesia,2008,PYF,0.875696,4.5658145,268390.0,,gdp
+French Polynesia,2009,PYF,0.86836797,4.543748,269494.0,,gdp
+French Polynesia,2010,PYF,0.930656,4.6160545,270590.0,,gdp
+French Polynesia,2011,PYF,0.886688,4.40235,271734.0,,gdp
+French Polynesia,2012,PYF,0.87936,4.276028,273092.0,,gdp
+French Polynesia,2013,PYF,0.886688,4.2857685,274736.0,,gdp
+French Polynesia,2014,PYF,0.853712,4.217208,276391.0,,gdp
+French Polynesia,2015,PYF,0.850048,4.4054494,277877.0,,gdp
+French Polynesia,2016,PYF,0.872032,4.350171,279180.0,,gdp
+French Polynesia,2017,PYF,0.87936,4.236953,280096.0,,gdp
+French Polynesia,2018,PYF,0.87936,3.8948421,279823.0,,gdp
+French Polynesia,2019,PYF,0.890352,3.9352849,279040.0,,gdp
+French Polynesia,2020,PYF,0.831728,3.6919441,279218.0,,gdp
+French Polynesia,2021,PYF,0.872032,3.8730767,279808.0,,gdp
+French Polynesia,2022,PYF,0.890352,5.3260016,280388.0,,gdp
+Georgia,1990,GEO,14.76859,,5448865.0,65874153359.0,total_energy_supply
+Georgia,1991,GEO,14.511898,,5379509.0,51732418013.0,total_energy_supply
+Greenland,1990,GRL,0.6242,2.2753153,55650.0,,gdp
+Greenland,1991,GRL,0.6094,2.2473025,55740.0,,gdp
+Greenland,1992,GRL,0.5953,1.9973627,55769.0,,gdp
+Greenland,1993,GRL,0.5454,2.0423534,55780.0,,gdp
+Greenland,1994,GRL,0.4954,2.0542161,55766.0,,gdp
+Greenland,1995,GRL,0.5338,2.0542161,55857.0,,gdp
+Greenland,1996,GRL,0.5965,2.1770084,56020.0,,gdp
+Greenland,1997,GRL,0.6173,2.233371,56115.0,,gdp
+Greenland,1998,GRL,0.5965,2.233402,56175.0,,gdp
+Greenland,1999,GRL,0.5941,2.404407,56148.0,,gdp
+Greenland,2000,GRL,0.667204,2.6392624,56228.0,,gdp
+Greenland,2001,GRL,0.617803,2.4607465,56433.0,,gdp
+Greenland,2002,GRL,0.579401,2.331574,56617.0,,gdp
+Greenland,2003,GRL,0.649303,2.596988,56781.0,,gdp
+Greenland,2004,GRL,0.62250197,2.4745607,56926.0,,gdp
+Greenland,2005,GRL,0.6266,3.0349667,56969.0,,gdp
+Greenland,2006,GRL,0.6433,2.770205,56901.0,,gdp
+Greenland,2007,GRL,0.634902,3.1646256,56807.0,,gdp
+Greenland,2008,GRL,0.653403,2.7762907,56683.0,,gdp
+Greenland,2009,GRL,0.5771,2.965268,56547.0,,gdp
+Greenland,2010,GRL,0.660505,3.8240037,56634.0,,gdp
+Greenland,2011,GRL,0.7048,3.7002702,56853.0,,gdp
+Greenland,2012,GRL,0.54662,2.992335,56797.0,,gdp
+Greenland,2013,GRL,0.5308,2.9546692,56532.0,,gdp
+Greenland,2014,GRL,0.502307,2.688284,56195.0,,gdp
+Greenland,2015,GRL,0.5473,2.8881962,56048.0,,gdp
+Greenland,2016,GRL,0.5089,2.8897495,56082.0,,gdp
+Greenland,2017,GRL,0.535603,2.8954837,56094.0,,gdp
+Greenland,2018,GRL,0.52344,2.6177506,56100.0,,gdp
+Greenland,2019,GRL,0.52583,2.6988182,56109.0,,gdp
+Greenland,2020,GRL,0.549409,2.5881412,56105.0,,gdp
+Greenland,2021,GRL,0.546254,2.5434709,56065.0,,gdp
+Greenland,2022,GRL,0.587101,2.689343,56014.0,,gdp
+Grenada,1990,GRD,0.106256,0.52565837,99973.0,,gdp
+Grenada,1991,GRD,0.10992,0.52565837,100806.0,,gdp
+Grenada,1992,GRD,0.117248,0.54193795,101618.0,,gdp
+Grenada,1993,GRD,0.124576,0.6230023,102398.0,,gdp
+Grenada,1994,GRD,0.142896,0.7144853,103150.0,,gdp
+Grenada,1995,GRD,0.150224,0.65072715,103890.0,,gdp
+Grenada,1996,GRD,0.153888,0.69682133,104599.0,,gdp
+Grenada,1997,GRD,0.168544,0.92213714,105309.0,,gdp
+Grenada,1998,GRD,0.175872,0.79964626,106023.0,,gdp
+Grenada,1999,GRD,0.190528,0.7996537,106744.0,,gdp
+Grenada,2000,GRD,0.186864,0.8628608,107466.0,,gdp
+Grenada,2001,GRD,0.19419199,0.89806134,107998.0,,gdp
+Grenada,2002,GRD,0.20152,0.9228012,108414.0,,gdp
+Grenada,2003,GRD,0.212512,0.9761637,108895.0,,gdp
+Grenada,2004,GRD,0.205184,0.94793665,109338.0,,gdp
+Grenada,2005,GRD,0.216176,0.9967932,109744.0,,gdp
+Grenada,2006,GRD,0.223504,1.0313487,110149.0,,gdp
+Grenada,2007,GRD,0.23816,1.0947144,110532.0,,gdp
+Grenada,2008,GRD,0.260144,1.1640489,110911.0,,gdp
+Grenada,2009,GRD,0.249152,1.130203,111266.0,,gdp
+Grenada,2010,GRD,0.25648,1.1713761,111600.0,,gdp
+Grenada,2011,GRD,0.249152,1.1687393,112093.0,,gdp
+Grenada,2012,GRD,0.267472,1.1891004,112792.0,,gdp
+Grenada,2013,GRD,0.300448,1.3422744,113499.0,,gdp
+Grenada,2014,GRD,0.241824,1.1340619,114148.0,,gdp
+Grenada,2015,GRD,0.260144,1.1823462,114691.0,,gdp
+Grenada,2016,GRD,0.2748,1.2164313,115147.0,,gdp
+Grenada,2017,GRD,0.29312,1.3215932,115448.0,,gdp
+Grenada,2018,GRD,0.307776,1.406692,115703.0,,gdp
+Grenada,2019,GRD,0.333424,1.5341071,115995.0,,gdp
+Grenada,2020,GRD,0.289456,1.323644,116353.0,,gdp
+Grenada,2021,GRD,0.31144,1.4206153,116696.0,,gdp
+Grenada,2022,GRD,0.333424,1.4509395,116928.0,,gdp
+Guadeloupe,1990,GLP,1.315074,5.9817133,388820.0,,gdp
+Guadeloupe,1991,GLP,1.396648,6.2198734,393787.0,,gdp
+Guadeloupe,1992,GLP,1.405468,5.8950353,398165.0,,gdp
+Guadeloupe,1993,GLP,1.550742,6.7225027,402324.0,,gdp
+Guadeloupe,1994,GLP,1.667859,6.951688,406330.0,,gdp
+Guadeloupe,1995,GLP,1.741729,7.1402454,410191.0,,gdp
+Guadeloupe,1996,GLP,1.828978,7.099205,413932.0,,gdp
+Guadeloupe,1997,GLP,1.8403339,7.263048,417595.0,,gdp
+Guadeloupe,1998,GLP,2.2248,7.268048,420476.0,,gdp
+Guadeloupe,1999,GLP,2.183759,7.268048,420943.0,,gdp
+Guadeloupe,2000,GLP,2.135274,8.5743685,419565.0,,gdp
+Guadeloupe,2001,GLP,2.261604,8.997801,417844.0,,gdp
+Guadeloupe,2002,GLP,2.349896,9.197753,415762.0,,gdp
+Guadeloupe,2003,GLP,2.384116,9.396928,413418.0,,gdp
+Guadeloupe,2004,GLP,2.552988,9.179483,410859.0,,gdp
+Guadeloupe,2005,GLP,2.383036,9.122597,408085.0,,gdp
+Guadeloupe,2006,GLP,2.339859,9.421141,407230.0,,gdp
+Guadeloupe,2007,GLP,2.497431,9.793602,408303.0,,gdp
+Guadeloupe,2008,GLP,2.450661,9.149503,408987.0,,gdp
+Guadeloupe,2009,GLP,2.392495,9.041979,408998.0,,gdp
+Guadeloupe,2010,GLP,2.513848,9.651671,408815.0,,gdp
+Guadeloupe,2011,GLP,2.521878,10.208365,409063.0,,gdp
+Guadeloupe,2012,GLP,2.4981,0.0,409153.0,,gdp
+Guadeloupe,2013,GLP,2.450249,0.0,408367.0,,gdp
+Guadeloupe,2014,GLP,2.440316,0.0,406652.0,,gdp
+Guadeloupe,2015,GLP,2.477643,0.0,403950.0,,gdp
+Guadeloupe,2016,GLP,2.53417,0.0,404642.0,,gdp
+Guadeloupe,2017,GLP,2.504483,0.0,412701.0,,gdp
+Guadeloupe,2018,GLP,2.497168,0.0,415184.0,,gdp
+Guadeloupe,2019,GLP,2.55805,0.0,410266.0,,gdp
+Guadeloupe,2020,GLP,2.296008,0.0,407401.0,,gdp
+Guadeloupe,2021,GLP,2.35005,0.0,399157.0,,gdp
+Guadeloupe,2022,GLP,2.345511,0.0,384702.0,,gdp
+Guyana,1990,GUY,1.139504,2.7162185,749891.0,,gdp
+Guyana,1991,GUY,1.113856,3.203221,747870.0,,gdp
+Guyana,1992,GUY,1.047904,3.558587,749919.0,,gdp
+Guyana,1993,GUY,1.051568,4.542868,752969.0,,gdp
+Guyana,1994,GUY,1.4656,4.540926,755821.0,,gdp
+Guyana,1995,GUY,1.571856,3.8540668,758395.0,,gdp
+Guyana,1996,GUY,1.66712,4.200668,760535.0,,gdp
+Guyana,1997,GUY,1.817344,4.4703465,762250.0,,gdp
+Guyana,1998,GUY,1.835664,5.781176,763596.0,,gdp
+Guyana,1999,GUY,1.842992,6.9423056,764490.0,,gdp
+Guyana,2000,GUY,1.755056,6.8315496,764836.0,,gdp
+Guyana,2001,GUY,1.744064,6.6556106,764484.0,,gdp
+Guyana,2002,GUY,1.718416,6.7268195,763657.0,,gdp
+Guyana,2003,GUY,1.872304,6.948148,763107.0,,gdp
+Guyana,2004,GUY,1.934592,6.770627,762424.0,,gdp
+Guyana,2005,GUY,1.619488,6.1249127,760922.0,,gdp
+Guyana,2006,GUY,1.516896,5.472122,758976.0,,gdp
+Guyana,2007,GUY,1.788032,6.790376,756874.0,,gdp
+Guyana,2008,GUY,1.711088,6.452021,754614.0,,gdp
+Guyana,2009,GUY,1.908944,6.6448045,752097.0,,gdp
+Guyana,2010,GUY,1.890624,7.248465,749259.0,,gdp
+Guyana,2011,GUY,1.967568,7.5396085,746161.0,,gdp
+Guyana,2012,GUY,1.967568,8.486496,746296.0,,gdp
+Guyana,2013,GUY,1.908944,8.25765,750020.0,,gdp
+Guyana,2014,GUY,1.982224,8.269195,754231.0,,gdp
+Guyana,2015,GUY,1.9712319,8.437667,758783.0,,gdp
+Guyana,2016,GUY,2.21672,9.462033,763553.0,,gdp
+Guyana,2017,GUY,2.176174,9.357159,768483.0,,gdp
+Guyana,2018,GUY,2.337632,10.150955,791563.0,,gdp
+Guyana,2019,GUY,2.686199,11.607347,807668.0,,gdp
+Guyana,2020,GUY,3.726088,11.237154,807486.0,,gdp
+Guyana,2021,GUY,3.327606,11.8548155,815484.0,,gdp
+Guyana,2022,GUY,4.460313,14.262314,821638.0,,gdp
+Kiribati,1990,KIR,0.021984,0.0754843,74872.0,,gdp
+Kiribati,1991,KIR,0.025648,0.07630237,76385.0,,gdp
+Kiribati,1992,KIR,0.025648,0.07565462,77655.0,,gdp
+Kiribati,1993,KIR,0.029312,0.0754843,78853.0,,gdp
+Kiribati,1994,KIR,0.029312,0.0754843,80033.0,,gdp
+Kiribati,1995,KIR,0.029312,0.0754843,81251.0,,gdp
+Kiribati,1996,KIR,0.032976,0.07565462,82637.0,,gdp
+Kiribati,1997,KIR,0.032976,0.0754843,84161.0,,gdp
+Kiribati,1998,KIR,0.029312,0.0754843,85672.0,,gdp
+Kiribati,1999,KIR,0.029312,0.07548796,87139.0,,gdp
+Kiribati,2000,KIR,0.03664,0.14542937,88632.0,,gdp
+Kiribati,2001,KIR,0.03664,0.12409294,90350.0,,gdp
+Kiribati,2002,KIR,0.040304,0.18187262,92281.0,,gdp
+Kiribati,2003,KIR,0.040304,0.18908446,94189.0,,gdp
+Kiribati,2004,KIR,0.043968,0.202527,96096.0,,gdp
+Kiribati,2005,KIR,0.047632,0.2646085,98045.0,,gdp
+Kiribati,2006,KIR,0.051296,0.2944388,100028.0,,gdp
+Kiribati,2007,KIR,0.051296,0.2687508,102081.0,,gdp
+Kiribati,2008,KIR,0.047632,0.30092958,104235.0,,gdp
+Kiribati,2009,KIR,0.047632,0.26259938,106479.0,,gdp
+Kiribati,2010,KIR,0.058624,0.26115373,108717.0,,gdp
+Kiribati,2011,KIR,0.05496,0.24107717,110660.0,,gdp
+Kiribati,2012,KIR,0.05496,0.2379897,112293.0,,gdp
+Kiribati,2013,KIR,0.05496,0.24073716,113847.0,,gdp
+Kiribati,2014,KIR,0.05496,0.24159285,115339.0,,gdp
+Kiribati,2015,KIR,0.058624,0.25627005,116826.0,,gdp
+Kiribati,2016,KIR,0.05496,0.2739472,118488.0,,gdp
+Kiribati,2017,KIR,0.069616,0.31005728,120288.0,,gdp
+Kiribati,2018,KIR,0.069616,0.3137526,122097.0,,gdp
+Kiribati,2019,KIR,0.07328,0.31607798,123928.0,,gdp
+Kiribati,2020,KIR,0.069616,0.31128627,126110.0,,gdp
+Kiribati,2021,KIR,0.069616,0.31128627,128387.0,,gdp
+Kiribati,2022,KIR,0.07328,0.31509912,130483.0,,gdp
+Kyrgyzstan,1990,KGZ,19.313753,,4459545.0,25164233692.0,total_energy_supply
+Kyrgyzstan,1991,KGZ,15.981519,,4532124.0,22948278940.0,total_energy_supply
+Liechtenstein,1990,LIE,0.198972,,28912.0,,"total_energy_supply, gdp"
+Liechtenstein,1991,LIE,0.20633,,29303.0,,"total_energy_supply, gdp"
+Liechtenstein,1992,LIE,0.20695099,,29750.0,,"total_energy_supply, gdp"
+Liechtenstein,1993,LIE,0.215035,,30199.0,,"total_energy_supply, gdp"
+Liechtenstein,1994,LIE,0.201112,,30623.0,,"total_energy_supply, gdp"
+Liechtenstein,1995,LIE,0.204202,,31055.0,,"total_energy_supply, gdp"
+Liechtenstein,1996,LIE,0.205961,,31497.0,,"total_energy_supply, gdp"
+Liechtenstein,1997,LIE,0.218307,,31925.0,,"total_energy_supply, gdp"
+Liechtenstein,1998,LIE,0.229188,,32341.0,,"total_energy_supply, gdp"
+Liechtenstein,1999,LIE,0.226522,,32751.0,,"total_energy_supply, gdp"
+Liechtenstein,2000,LIE,0.216802,,33137.0,,"total_energy_supply, gdp"
+Liechtenstein,2001,LIE,0.21461,,33470.0,,"total_energy_supply, gdp"
+Liechtenstein,2002,LIE,0.219971,,33770.0,,"total_energy_supply, gdp"
+Liechtenstein,2003,LIE,0.229303,,34089.0,,"total_energy_supply, gdp"
+Liechtenstein,2004,LIE,0.229326,,34409.0,,"total_energy_supply, gdp"
+Liechtenstein,2005,LIE,0.228883,,34713.0,,"total_energy_supply, gdp"
+Liechtenstein,2006,LIE,0.231015,,35002.0,,"total_energy_supply, gdp"
+Liechtenstein,2007,LIE,0.200684,,35251.0,,"total_energy_supply, gdp"
+Liechtenstein,2008,LIE,0.219443,,35467.0,,"total_energy_supply, gdp"
+Liechtenstein,2009,LIE,0.205313,,35740.0,,"total_energy_supply, gdp"
+Liechtenstein,2010,LIE,0.190743,,36021.0,,"total_energy_supply, gdp"
+Liechtenstein,2011,LIE,0.176752,,36295.0,,"total_energy_supply, gdp"
+Liechtenstein,2012,LIE,0.185301,,36621.0,,"total_energy_supply, gdp"
+Liechtenstein,2013,LIE,0.192529,,36930.0,,"total_energy_supply, gdp"
+Liechtenstein,2014,LIE,0.161246,,37191.0,,"total_energy_supply, gdp"
+Liechtenstein,2015,LIE,0.15976,,37424.0,,"total_energy_supply, gdp"
+Liechtenstein,2016,LIE,0.149874,,37635.0,,"total_energy_supply, gdp"
+Liechtenstein,2017,LIE,0.155927,,37872.0,,"total_energy_supply, gdp"
+Liechtenstein,2018,LIE,0.143179,,38157.0,,"total_energy_supply, gdp"
+Liechtenstein,2019,LIE,0.149213,,38463.0,,"total_energy_supply, gdp"
+Liechtenstein,2020,LIE,0.142136,,38793.0,,"total_energy_supply, gdp"
+Liechtenstein,2021,LIE,0.145947,,39062.0,,"total_energy_supply, gdp"
+Liechtenstein,2022,LIE,0.128604,,39338.0,,"total_energy_supply, gdp"
+Macao,1990,MAC,0.908672,4.469845,351123.0,,gdp
+Macao,1991,MAC,0.974624,4.4054017,362275.0,,gdp
+Macao,1992,MAC,0.98928,4.556105,372256.0,,gdp
+Macao,1993,MAC,1.113856,5.0007505,381331.0,,gdp
+Macao,1994,MAC,1.187136,5.337636,390126.0,,gdp
+Macao,1995,MAC,1.139504,5.5277243,398703.0,,gdp
+Macao,1996,MAC,1.31904,6.106567,407033.0,,gdp
+Macao,1997,MAC,1.388656,6.2618027,415074.0,,gdp
+Macao,1998,MAC,1.4656,6.6920238,422816.0,,gdp
+Macao,1999,MAC,1.443616,7.106243,430253.0,,gdp
+Macao,2000,MAC,1.549872,6.9008813,437316.0,,gdp
+Macao,2001,MAC,1.579184,7.283152,445121.0,,gdp
+Macao,2002,MAC,1.403312,7.8723927,456026.0,,gdp
+Macao,2003,MAC,1.436288,8.304819,469062.0,,gdp
+Macao,2004,MAC,1.597504,9.787356,482209.0,,gdp
+Macao,2005,MAC,1.696432,10.060713,495416.0,,gdp
+Macao,2006,MAC,1.472928,10.697307,508752.0,,gdp
+Macao,2007,MAC,1.377664,10.9567,522281.0,,gdp
+Macao,2008,MAC,1.139504,9.824863,535935.0,,gdp
+Macao,2009,MAC,1.908944,10.457387,549492.0,,gdp
+Macao,2010,MAC,1.242096,10.8210945,562809.0,,gdp
+Macao,2011,MAC,1.30072,10.912233,575644.0,,gdp
+Macao,2012,MAC,1.146335,11.028297,587450.0,,gdp
+Macao,2013,MAC,0.992944,11.218804,598752.0,,gdp
+Macao,2014,MAC,1.212784,12.115775,610308.0,,gdp
+Macao,2015,MAC,1.689104,12.959347,622185.0,,gdp
+Macao,2016,MAC,1.70376,13.168243,634317.0,,gdp
+Macao,2017,MAC,1.85032,16.063143,646558.0,,gdp
+Macao,2018,MAC,1.165152,13.632438,658777.0,,gdp
+Macao,2019,MAC,1.139504,14.222009,670982.0,,gdp
+Macao,2020,MAC,0.963632,12.90166,683069.0,,gdp
+Macao,2021,MAC,0.820736,12.302765,694404.0,,gdp
+Macao,2022,MAC,0.835392,12.418412,704360.0,,gdp
+Maldives,1990,MDV,0.168544,0.4219261,224772.0,,gdp
+Maldives,1991,MDV,0.153888,0.4219261,231810.0,,gdp
+Maldives,1992,MDV,0.230832,0.42294216,238559.0,,gdp
+Maldives,1993,MDV,0.19419199,0.49351043,244893.0,,gdp
+Maldives,1994,MDV,0.197856,0.99047816,250831.0,,gdp
+Maldives,1995,MDV,0.249152,1.3611417,256660.0,,gdp
+Maldives,1996,MDV,0.289456,1.4242837,262354.0,,gdp
+Maldives,1997,MDV,0.32976,1.2304893,267711.0,,gdp
+Maldives,1998,MDV,0.300448,1.3551103,272734.0,,gdp
+Maldives,1999,MDV,0.42136,1.3551128,277423.0,,gdp
+Maldives,2000,MDV,0.450672,2.8618531,282025.0,,gdp
+Maldives,2001,MDV,0.461664,2.3996603,286778.0,,gdp
+Maldives,2002,MDV,0.589904,2.8691983,291631.0,,gdp
+Maldives,2003,MDV,0.509296,2.494432,296497.0,,gdp
+Maldives,2004,MDV,0.670512,3.2629292,301416.0,,gdp
+Maldives,2005,MDV,0.608224,2.954092,306429.0,,gdp
+Maldives,2006,MDV,0.75112,3.7435496,313866.0,,gdp
+Maldives,2007,MDV,0.78776,3.875021,324489.0,,gdp
+Maldives,2008,MDV,0.846384,4.2131248,336178.0,,gdp
+Maldives,2009,MDV,0.890352,4.4763846,348282.0,,gdp
+Maldives,2010,MDV,0.937984,4.5248046,360802.0,,gdp
+Maldives,2011,MDV,0.992944,4.8902335,373683.0,,gdp
+Maldives,2012,MDV,1.11752,6.2281113,386821.0,,gdp
+Maldives,2013,MDV,1.102864,6.568711,400077.0,,gdp
+Maldives,2014,MDV,1.322704,8.802967,413623.0,,gdp
+Maldives,2015,MDV,1.289728,6.583206,428165.0,,gdp
+Maldives,2016,MDV,1.450944,6.9783583,443316.0,,gdp
+Maldives,2017,MDV,1.52056,7.233674,458297.0,,gdp
+Maldives,2018,MDV,1.7367359,5.6964273,473106.0,,gdp
+Maldives,2019,MDV,1.99688,6.2318635,487737.0,,gdp
+Maldives,2020,MDV,1.681776,5.080176,502127.0,,gdp
+Maldives,2021,MDV,1.99688,6.4707093,516163.0,,gdp
+Maldives,2022,MDV,2.205728,7.4127793,524116.0,,gdp
+Marshall Islands,1990,MHL,,,44648.0,,"co2, total_energy_supply, gdp"
+Marshall Islands,1991,MHL,,,45587.0,,"co2, total_energy_supply, gdp"
+Marshall Islands,1992,MHL,0.076944,,46406.0,,"total_energy_supply, gdp"
+Marshall Islands,1993,MHL,0.080608,,47112.0,,"total_energy_supply, gdp"
+Marshall Islands,1994,MHL,0.084272,,47731.0,,"total_energy_supply, gdp"
+Marshall Islands,1995,MHL,0.087936,,48283.0,,"total_energy_supply, gdp"
+Marshall Islands,1996,MHL,0.0916,,48795.0,,"total_energy_supply, gdp"
+Marshall Islands,1997,MHL,0.0916,,49277.0,,"total_energy_supply, gdp"
+Marshall Islands,1998,MHL,0.0916,,49732.0,,"total_energy_supply, gdp"
+Marshall Islands,1999,MHL,0.0916,,50221.0,,"total_energy_supply, gdp"
+Marshall Islands,2000,MHL,0.098928,,50721.0,,"total_energy_supply, gdp"
+Marshall Islands,2001,MHL,0.102592,,51137.0,,"total_energy_supply, gdp"
+Marshall Islands,2002,MHL,0.10992,,51441.0,,"total_energy_supply, gdp"
+Marshall Islands,2003,MHL,0.10992,,51657.0,,"total_energy_supply, gdp"
+Marshall Islands,2004,MHL,0.113584,,51803.0,,"total_energy_supply, gdp"
+Marshall Islands,2005,MHL,0.113584,,51928.0,,"total_energy_supply, gdp"
+Marshall Islands,2006,MHL,0.120912,,52011.0,,"total_energy_supply, gdp"
+Marshall Islands,2007,MHL,0.12824,,52050.0,,"total_energy_supply, gdp"
+Marshall Islands,2008,MHL,0.12824,,52049.0,,"total_energy_supply, gdp"
+Marshall Islands,2009,MHL,0.131904,,52036.0,,"total_energy_supply, gdp"
+Marshall Islands,2010,MHL,0.135568,,52064.0,,"total_energy_supply, gdp"
+Marshall Islands,2011,MHL,0.135568,,51927.0,,"total_energy_supply, gdp"
+Marshall Islands,2012,MHL,0.135568,,51438.0,,"total_energy_supply, gdp"
+Marshall Islands,2013,MHL,0.139232,,50696.0,,"total_energy_supply, gdp"
+Marshall Islands,2014,MHL,0.139232,,49815.0,,"total_energy_supply, gdp"
+Marshall Islands,2015,MHL,0.142896,,48823.0,,"total_energy_supply, gdp"
+Marshall Islands,2016,MHL,0.142896,,47730.0,,"total_energy_supply, gdp"
+Marshall Islands,2017,MHL,0.14656,,46544.0,,"total_energy_supply, gdp"
+Marshall Islands,2018,MHL,0.14656,,45307.0,,"total_energy_supply, gdp"
+Marshall Islands,2019,MHL,0.14656,,44030.0,,"total_energy_supply, gdp"
+Marshall Islands,2020,MHL,0.14656,,42728.0,,"total_energy_supply, gdp"
+Marshall Islands,2021,MHL,0.14656,,41387.0,,"total_energy_supply, gdp"
+Marshall Islands,2022,MHL,0.14656,,40094.0,,"total_energy_supply, gdp"
+Martinique,1990,MTQ,1.678557,6.392519,370999.0,,gdp
+Martinique,1991,MTQ,1.557632,5.3418508,377313.0,,gdp
+Martinique,1992,MTQ,1.714088,5.880149,383938.0,,gdp
+Martinique,1993,MTQ,1.840392,8.011481,390545.0,,gdp
+Martinique,1994,MTQ,1.978266,7.9137106,397073.0,,gdp
+Martinique,1995,MTQ,1.998553,8.0260935,403505.0,,gdp
+Martinique,1996,MTQ,1.986012,8.048083,409833.0,,gdp
+Martinique,1997,MTQ,1.952276,8.150448,416094.0,,gdp
+Martinique,1998,MTQ,1.74276,8.088137,421815.0,,gdp
+Martinique,1999,MTQ,1.89022,8.088137,423895.0,,gdp
+Martinique,2000,MTQ,1.956972,9.408889,421388.0,,gdp
+Martinique,2001,MTQ,1.97943,9.442908,417157.0,,gdp
+Martinique,2002,MTQ,2.004449,9.8477,412479.0,,gdp
+Martinique,2003,MTQ,2.15511,9.707337,408417.0,,gdp
+Martinique,2004,MTQ,2.283366,9.73977,405104.0,,gdp
+Martinique,2005,MTQ,2.4118469,9.55402,401849.0,,gdp
+Martinique,2006,MTQ,2.352327,9.555714,400459.0,,gdp
+Martinique,2007,MTQ,2.130162,9.922371,400812.0,,gdp
+Martinique,2008,MTQ,2.139664,9.969983,400699.0,,gdp
+Martinique,2009,MTQ,2.279336,9.954215,399527.0,,gdp
+Martinique,2010,MTQ,2.282362,9.9325695,397389.0,,gdp
+Martinique,2011,MTQ,2.289654,0.0,394576.0,,gdp
+Martinique,2012,MTQ,2.268065,0.0,391741.0,,gdp
+Martinique,2013,MTQ,2.22462,0.0,389470.0,,gdp
+Martinique,2014,MTQ,2.215602,0.0,387027.0,,gdp
+Martinique,2015,MTQ,2.249492,0.0,383737.0,,gdp
+Martinique,2016,MTQ,2.300814,0.0,378892.0,,gdp
+Martinique,2017,MTQ,2.273861,0.0,371510.0,,gdp
+Martinique,2018,MTQ,2.267219,0.0,364100.0,,gdp
+Martinique,2019,MTQ,2.322494,0.0,359621.0,,gdp
+Martinique,2020,MTQ,2.084582,0.0,356625.0,,gdp
+Martinique,2021,MTQ,2.133648,0.0,353286.0,,gdp
+Martinique,2022,MTQ,2.129527,0.0,349462.0,,gdp
+Mayotte,1990,MYT,0.061261,,89606.0,,"total_energy_supply, gdp"
+Mayotte,1991,MYT,0.069615,,95115.0,,"total_energy_supply, gdp"
+Mayotte,1992,MYT,0.07507,,101206.0,,"total_energy_supply, gdp"
+Mayotte,1993,MYT,0.089123,,107983.0,,"total_energy_supply, gdp"
+Mayotte,1994,MYT,0.101925,,115149.0,,"total_energy_supply, gdp"
+Mayotte,1995,MYT,0.112068,,122590.0,,"total_energy_supply, gdp"
+Mayotte,1996,MYT,0.115466,,130177.0,,"total_energy_supply, gdp"
+Mayotte,1997,MYT,0.120898,,137444.0,,"total_energy_supply, gdp"
+Mayotte,1998,MYT,0.1236,,143988.0,,"total_energy_supply, gdp"
+Mayotte,1999,MYT,0.14677,,150218.0,,"total_energy_supply, gdp"
+Mayotte,2000,MYT,0.160907,,156511.0,,"total_energy_supply, gdp"
+Mayotte,2001,MYT,0.168462,,162716.0,,"total_energy_supply, gdp"
+Mayotte,2002,MYT,0.183386,,168093.0,,"total_energy_supply, gdp"
+Mayotte,2003,MYT,0.188112,,171702.0,,"total_energy_supply, gdp"
+Mayotte,2004,MYT,0.210643,,175053.0,,"total_energy_supply, gdp"
+Mayotte,2005,MYT,0.222252,,179615.0,,"total_energy_supply, gdp"
+Mayotte,2006,MYT,0.241051,,185005.0,,"total_energy_supply, gdp"
+Mayotte,2007,MYT,0.257089,,190773.0,,"total_energy_supply, gdp"
+Mayotte,2008,MYT,0.290264,,196422.0,,"total_energy_supply, gdp"
+Mayotte,2009,MYT,0.29502,,201909.0,,"total_energy_supply, gdp"
+Mayotte,2010,MYT,0.304586,,207439.0,,"total_energy_supply, gdp"
+Mayotte,2011,MYT,0.305559,,212996.0,,"total_energy_supply, gdp"
+Mayotte,2012,MYT,0.302678,,219008.0,,"total_energy_supply, gdp"
+Mayotte,2013,MYT,0.29688,,226642.0,,"total_energy_supply, gdp"
+Mayotte,2014,MYT,0.295676,,235785.0,,"total_energy_supply, gdp"
+Mayotte,2015,MYT,0.300199,,245594.0,,"total_energy_supply, gdp"
+Mayotte,2016,MYT,0.307048,,255880.0,,"total_energy_supply, gdp"
+Mayotte,2017,MYT,0.303451,,265170.0,,"total_energy_supply, gdp"
+Mayotte,2018,MYT,0.302565,,269704.0,,"total_energy_supply, gdp"
+Mayotte,2019,MYT,0.309941,,274918.0,,"total_energy_supply, gdp"
+Mayotte,2020,MYT,0.278192,,284381.0,,"total_energy_supply, gdp"
+Mayotte,2021,MYT,0.28474,,294431.0,,"total_energy_supply, gdp"
+Mayotte,2022,MYT,0.28419,,305279.0,,"total_energy_supply, gdp"
+Micronesia (country),1990,FSM,,0.0,100904.0,,"co2, gdp"
+Micronesia (country),1991,FSM,,0.0,102764.0,,"co2, gdp"
+Micronesia (country),1992,FSM,0.135568,0.0,104823.0,,gdp
+Micronesia (country),1993,FSM,0.14656,0.0,107082.0,,gdp
+Micronesia (country),1994,FSM,0.153888,0.0,109090.0,,gdp
+Micronesia (country),1995,FSM,0.179536,0.0,110244.0,,gdp
+Micronesia (country),1996,FSM,0.186864,0.0,110723.0,,gdp
+Micronesia (country),1997,FSM,0.19419199,0.0,111088.0,,gdp
+Micronesia (country),1998,FSM,0.208848,0.0,111394.0,,gdp
+Micronesia (country),1999,FSM,0.19419199,0.0,111693.0,,gdp
+Micronesia (country),2000,FSM,0.1832,0.526005,112067.0,,gdp
+Micronesia (country),2001,FSM,0.168544,0.5976138,112378.0,,gdp
+Micronesia (country),2002,FSM,0.153888,0.55587876,112464.0,,gdp
+Micronesia (country),2003,FSM,0.161216,0.5995142,112298.0,,gdp
+Micronesia (country),2004,FSM,0.142896,0.57692164,111939.0,,gdp
+Micronesia (country),2005,FSM,0.117248,0.4923329,111420.0,,gdp
+Micronesia (country),2006,FSM,0.117248,0.5070448,110739.0,,gdp
+Micronesia (country),2007,FSM,0.131904,0.56544304,109896.0,,gdp
+Micronesia (country),2008,FSM,0.113584,0.4922374,108947.0,,gdp
+Micronesia (country),2009,FSM,0.14656,0.67969847,107968.0,,gdp
+Micronesia (country),2010,FSM,0.102592,0.47506195,107559.0,,gdp
+Micronesia (country),2011,FSM,0.117248,0.54879177,107712.0,,gdp
+Micronesia (country),2012,FSM,0.131904,0.61106807,107908.0,,gdp
+Micronesia (country),2013,FSM,0.135568,0.643524,108133.0,,gdp
+Micronesia (country),2014,FSM,0.139232,0.6740101,108407.0,,gdp
+Micronesia (country),2015,FSM,0.142896,0.70851934,108727.0,,gdp
+Micronesia (country),2016,FSM,0.14656,0.74949056,109088.0,,gdp
+Micronesia (country),2017,FSM,0.14656,0.75732505,109495.0,,gdp
+Micronesia (country),2018,FSM,0.14656,0.679749,109925.0,,gdp
+Micronesia (country),2019,FSM,0.14656,0.68215513,110293.0,,gdp
+Micronesia (country),2020,FSM,0.14656,0.6755845,110930.0,,gdp
+Micronesia (country),2021,FSM,0.142896,0.66756314,111635.0,,gdp
+Micronesia (country),2022,FSM,0.14656,0.6794472,112122.0,,gdp
+Moldova,1990,MDA,36.788258,,4451150.0,43214990000.0,total_energy_supply
+Moldova,1991,MDA,29.834517,,4456609.0,35018363780.0,total_energy_supply
+Monaco,1990,MCO,,,30382.0,,"co2, total_energy_supply, gdp"
+Monaco,1991,MCO,,,30654.0,,"co2, total_energy_supply, gdp"
+Monaco,1992,MCO,,,30909.0,,"co2, total_energy_supply, gdp"
+Monaco,1993,MCO,,,31165.0,,"co2, total_energy_supply, gdp"
+Monaco,1994,MCO,,,31398.0,,"co2, total_energy_supply, gdp"
+Monaco,1995,MCO,,,31636.0,,"co2, total_energy_supply, gdp"
+Monaco,1996,MCO,,,31859.0,,"co2, total_energy_supply, gdp"
+Monaco,1997,MCO,,,32090.0,,"co2, total_energy_supply, gdp"
+Monaco,1998,MCO,,,32289.0,,"co2, total_energy_supply, gdp"
+Monaco,1999,MCO,,,32435.0,,"co2, total_energy_supply, gdp"
+Monaco,2000,MCO,,,32477.0,,"co2, total_energy_supply, gdp"
+Monaco,2001,MCO,,,32466.0,,"co2, total_energy_supply, gdp"
+Monaco,2002,MCO,,,32441.0,,"co2, total_energy_supply, gdp"
+Monaco,2003,MCO,,,32396.0,,"co2, total_energy_supply, gdp"
+Monaco,2004,MCO,,,32329.0,,"co2, total_energy_supply, gdp"
+Monaco,2005,MCO,,,32235.0,,"co2, total_energy_supply, gdp"
+Monaco,2006,MCO,,,32083.0,,"co2, total_energy_supply, gdp"
+Monaco,2007,MCO,,,31859.0,,"co2, total_energy_supply, gdp"
+Monaco,2008,MCO,,,31862.0,,"co2, total_energy_supply, gdp"
+Monaco,2009,MCO,,,32390.0,,"co2, total_energy_supply, gdp"
+Monaco,2010,MCO,,,33188.0,,"co2, total_energy_supply, gdp"
+Monaco,2011,MCO,,,33968.0,,"co2, total_energy_supply, gdp"
+Monaco,2012,MCO,,,34738.0,,"co2, total_energy_supply, gdp"
+Monaco,2013,MCO,,,35476.0,,"co2, total_energy_supply, gdp"
+Monaco,2014,MCO,,,36155.0,,"co2, total_energy_supply, gdp"
+Monaco,2015,MCO,,,36785.0,,"co2, total_energy_supply, gdp"
+Monaco,2016,MCO,,,37301.0,,"co2, total_energy_supply, gdp"
+Monaco,2017,MCO,,,37700.0,,"co2, total_energy_supply, gdp"
+Monaco,2018,MCO,,,38179.0,,"co2, total_energy_supply, gdp"
+Monaco,2019,MCO,,,38131.0,,"co2, total_energy_supply, gdp"
+Monaco,2020,MCO,,,38074.0,,"co2, total_energy_supply, gdp"
+Monaco,2021,MCO,,,38548.0,,"co2, total_energy_supply, gdp"
+Monaco,2022,MCO,,,38950.0,,"co2, total_energy_supply, gdp"
+Montenegro,1990,MNE,2.414352,,620507.0,3852049384.0,total_energy_supply
+Montenegro,1991,MNE,1.717093,,623564.0,3585538585.0,total_energy_supply
+Montenegro,1992,MNE,1.805503,,626030.0,2862750332.0,total_energy_supply
+Montenegro,1993,MNE,1.572912,,628107.0,1856250947.0,total_energy_supply
+Montenegro,1994,MNE,1.528389,,629890.0,1915098721.0,total_energy_supply
+Montenegro,1995,MNE,1.614545,,631386.0,2226638536.0,total_energy_supply
+Montenegro,1996,MNE,1.891514,,632625.0,2909671906.0,total_energy_supply
+Montenegro,1997,MNE,2.023349,,633539.0,3194862294.0,total_energy_supply
+Montenegro,1998,MNE,2.109648,,634099.0,3442987998.0,total_energy_supply
+Montenegro,1999,MNE,1.4564,,634280.0,3205303470.0,total_energy_supply
+Montenegro,2000,MNE,1.616424,,634198.0,3766655741.0,total_energy_supply
+Montenegro,2001,MNE,1.736983,,634001.0,4003584918.0,total_energy_supply
+Montenegro,2002,MNE,1.858555,,633767.0,4290323123.0,total_energy_supply
+Montenegro,2003,MNE,1.989812,,633563.0,4622735968.0,total_energy_supply
+Montenegro,2004,MNE,2.172241,,633756.0,5084311894.0,total_energy_supply
+Montenegro,2005,MNE,1.966099,,634059.0,5587145362.0,total_energy_supply
+Montserrat,1990,MSR,0.029312,0.07515071,10700.0,,gdp
+Montserrat,1991,MSR,0.029312,0.13134255,10464.0,,gdp
+Montserrat,1992,MSR,0.029312,0.13167198,10013.0,,gdp
+Montserrat,1993,MSR,0.029312,0.13134255,9454.0,,gdp
+Montserrat,1994,MSR,0.032976,0.13134255,8867.0,,gdp
+Montserrat,1995,MSR,0.032976,0.19365312,8257.0,,gdp
+Montserrat,1996,MSR,0.03664,0.19415328,7626.0,,gdp
+Montserrat,1997,MSR,0.032976,0.19365312,6979.0,,gdp
+Montserrat,1998,MSR,0.029312,0.19365312,6321.0,,gdp
+Montserrat,1999,MSR,0.03664,0.19365802,5685.0,,gdp
+Montserrat,2000,MSR,0.025648,0.11631389,5053.0,,gdp
+Montserrat,2001,MSR,0.025648,0.11631389,4616.0,,gdp
+Montserrat,2002,MSR,0.043968,0.16765162,4500.0,,gdp
+Montserrat,2003,MSR,0.03664,0.16765162,4515.0,,gdp
+Montserrat,2004,MSR,0.047632,0.16765162,4541.0,,gdp
+Montserrat,2005,MSR,0.040304,0.16765162,4574.0,,gdp
+Montserrat,2006,MSR,0.040304,0.16765162,4606.0,,gdp
+Montserrat,2007,MSR,0.040304,0.18635729,4649.0,,gdp
+Montserrat,2008,MSR,0.043968,0.23925507,4700.0,,gdp
+Montserrat,2009,MSR,0.043968,0.2023005,4759.0,,gdp
+Montserrat,2010,MSR,0.058624,0.2703093,4819.0,,gdp
+Montserrat,2011,MSR,0.03664,0.186859,4846.0,,gdp
+Montserrat,2012,MSR,0.040304,0.18127958,4822.0,,gdp
+Montserrat,2013,MSR,0.051296,0.22841482,4774.0,,gdp
+Montserrat,2014,MSR,0.047632,0.21329181,4738.0,,gdp
+Montserrat,2015,MSR,0.051296,0.24004279,4693.0,,gdp
+Montserrat,2016,MSR,0.029312,0.13693617,4665.0,,gdp
+Montserrat,2017,MSR,0.025648,0.12300661,4624.0,,gdp
+Montserrat,2018,MSR,0.029312,0.12593265,4595.0,,gdp
+Montserrat,2019,MSR,0.021984,0.10524475,4564.0,,gdp
+Montserrat,2020,MSR,0.021984,0.103243075,4532.0,,gdp
+Montserrat,2021,MSR,0.021984,0.104636416,4505.0,,gdp
+Montserrat,2022,MSR,0.021984,0.11968562,4476.0,,gdp
+Namibia,1990,NAM,,10.158505,1369309.0,7363138831.0,co2
+Nauru,1990,NRU,0.124576,0.55856276,9645.0,,gdp
+Nauru,1991,NRU,0.124576,0.55856276,9873.0,,gdp
+Nauru,1992,NRU,0.120912,0.5599868,10042.0,,gdp
+Nauru,1993,NRU,0.113584,0.55856276,10123.0,,gdp
+Nauru,1994,NRU,0.10992,0.55856276,10163.0,,gdp
+Nauru,1995,NRU,0.106256,0.6258154,10187.0,,gdp
+Nauru,1996,NRU,0.102592,0.6274237,10206.0,,gdp
+Nauru,1997,NRU,0.102592,0.6258154,10218.0,,gdp
+Nauru,1998,NRU,0.098928,0.6258154,10220.0,,gdp
+Nauru,1999,NRU,0.0916,0.62581855,10207.0,,gdp
+Nauru,2000,NRU,0.087936,0.4577797,10187.0,,gdp
+Nauru,2001,NRU,0.080608,0.41491455,10147.0,,gdp
+Nauru,2002,NRU,0.076944,0.38946587,10105.0,,gdp
+Nauru,2003,NRU,0.065952,0.3491558,10086.0,,gdp
+Nauru,2004,NRU,0.062288,0.32768306,10084.0,,gdp
+Nauru,2005,NRU,0.062288,0.32111254,10071.0,,gdp
+Nauru,2006,NRU,0.043968,0.23380356,10061.0,,gdp
+Nauru,2007,NRU,0.040304,0.22770941,10042.0,,gdp
+Nauru,2008,NRU,0.040304,0.23160581,10032.0,,gdp
+Nauru,2009,NRU,0.040304,0.22512592,10041.0,,gdp
+Nauru,2010,NRU,0.043968,0.23729913,10067.0,,gdp
+Nauru,2011,NRU,0.040304,0.23325795,10116.0,,gdp
+Nauru,2012,NRU,0.040304,0.24751909,10289.0,,gdp
+Nauru,2013,NRU,0.047632,0.28915864,10539.0,,gdp
+Nauru,2014,NRU,0.051296,0.31222984,10766.0,,gdp
+Nauru,2015,NRU,0.05496,0.33247903,10975.0,,gdp
+Nauru,2016,NRU,0.051296,0.3648832,11173.0,,gdp
+Nauru,2017,NRU,0.05496,0.28521916,11351.0,,gdp
+Nauru,2018,NRU,0.05496,0.32269827,11499.0,,gdp
+Nauru,2019,NRU,0.051296,0.3187219,11609.0,,gdp
+Nauru,2020,NRU,0.05496,0.31158918,11665.0,,gdp
+Nauru,2021,NRU,0.05496,0.32299215,11727.0,,gdp
+Nauru,2022,NRU,0.058624,0.328665,11822.0,,gdp
+New Caledonia,1990,NCL,1.5572,6.5755,176468.0,,gdp
+New Caledonia,1991,NCL,1.729408,6.8798895,181251.0,,gdp
+New Caledonia,1992,NCL,1.546309,7.1081038,186084.0,,gdp
+New Caledonia,1993,NCL,1.802601,7.0030856,190858.0,,gdp
+New Caledonia,1994,NCL,1.945665,7.1744585,195626.0,,gdp
+New Caledonia,1995,NCL,2.033604,7.1057396,200392.0,,gdp
+New Caledonia,1996,NCL,2.150768,7.2018933,205048.0,,gdp
+New Caledonia,1997,NCL,1.784368,6.7435813,209568.0,,gdp
+New Caledonia,1998,NCL,1.821008,6.8291836,214062.0,,gdp
+New Caledonia,1999,NCL,2.066496,6.835561,218532.0,,gdp
+New Caledonia,2000,NCL,2.194736,9.143675,223110.0,,gdp
+New Caledonia,2001,NCL,1.85032,8.840135,227714.0,,gdp
+New Caledonia,2002,NCL,2.36328,9.728258,232239.0,,gdp
+New Caledonia,2003,NCL,2.696704,10.582062,236684.0,,gdp
+New Caledonia,2004,NCL,2.480454,10.238272,240865.0,,gdp
+New Caledonia,2005,NCL,2.770051,11.25657,244391.0,,gdp
+New Caledonia,2006,NCL,2.67472,11.154452,247557.0,,gdp
+New Caledonia,2007,NCL,2.890896,11.80651,250730.0,,gdp
+New Caledonia,2008,NCL,2.810288,11.750631,253831.0,,gdp
+New Caledonia,2009,NCL,2.983861,11.933344,257261.0,,gdp
+New Caledonia,2010,NCL,3.598186,14.25004,261580.0,,gdp
+New Caledonia,2011,NCL,3.639414,13.891296,266550.0,,gdp
+New Caledonia,2012,NCL,3.65678,14.771785,271640.0,,gdp
+New Caledonia,2013,NCL,3.923919,15.782828,276832.0,,gdp
+New Caledonia,2014,NCL,4.967487,18.588524,281233.0,,gdp
+New Caledonia,2015,NCL,4.834071,18.96444,283179.0,,gdp
+New Caledonia,2016,NCL,5.438997,20.495644,283432.0,,gdp
+New Caledonia,2017,NCL,5.544286,19.587341,283554.0,,gdp
+New Caledonia,2018,NCL,5.881319,21.838312,283551.0,,gdp
+New Caledonia,2019,NCL,5.646963,20.669764,283616.0,,gdp
+New Caledonia,2020,NCL,5.078337,19.2247,284187.0,,gdp
+New Caledonia,2021,NCL,4.508166,17.065323,285227.0,,gdp
+New Caledonia,2022,NCL,5.087829,18.125956,287130.0,,gdp
+Niue,1990,NIU,0.007328,0.01273005,2506.0,,gdp
+Niue,1991,NIU,0.007328,0.01273005,2476.0,,gdp
+Niue,1992,NIU,0.007328,0.012733686,2443.0,,gdp
+Niue,1993,NIU,0.007328,0.01273005,2403.0,,gdp
+Niue,1994,NIU,0.007328,0.01273005,2362.0,,gdp
+Niue,1995,NIU,0.003664,0.01273005,2326.0,,gdp
+Niue,1996,NIU,0.003664,0.012733686,2290.0,,gdp
+Niue,1997,NIU,0.003664,0.01273005,2242.0,,gdp
+Niue,1998,NIU,0.007328,0.01273005,2187.0,,gdp
+Niue,1999,NIU,0.007328,0.012735257,2138.0,,gdp
+Niue,2000,NIU,0.007328,0.028383922,2068.0,,gdp
+Niue,2001,NIU,0.007328,0.029088384,2007.0,,gdp
+Niue,2002,NIU,0.007328,0.02806333,1965.0,,gdp
+Niue,2003,NIU,0.003664,0.026345829,1928.0,,gdp
+Niue,2004,NIU,0.003664,0.026293574,1891.0,,gdp
+Niue,2005,NIU,0.003664,0.027183361,1849.0,,gdp
+Niue,2006,NIU,0.003664,0.026917277,1818.0,,gdp
+Niue,2007,NIU,0.003664,0.02484275,1810.0,,gdp
+Niue,2008,NIU,0.007328,0.039290424,1805.0,,gdp
+Niue,2009,NIU,0.003664,0.025858635,1801.0,,gdp
+Niue,2010,NIU,0.003664,0.024091564,1786.0,,gdp
+Niue,2011,NIU,0.003664,0.026788,1776.0,,gdp
+Niue,2012,NIU,0.003664,0.026396567,1784.0,,gdp
+Niue,2013,NIU,0.007328,0.028376363,1786.0,,gdp
+Niue,2014,NIU,0.007328,0.02931271,1792.0,,gdp
+Niue,2015,NIU,0.007328,0.031706557,1803.0,,gdp
+Niue,2016,NIU,0.007328,0.03051538,1806.0,,gdp
+Niue,2017,NIU,0.007328,0.029752932,1803.0,,gdp
+Niue,2018,NIU,0.007328,0.030702125,1805.0,,gdp
+Niue,2019,NIU,0.007328,0.03290309,1814.0,,gdp
+Niue,2020,NIU,0.007328,0.032756552,1822.0,,gdp
+Niue,2021,NIU,0.007328,0.033413034,1836.0,,gdp
+Niue,2022,NIU,0.007328,0.03426294,1844.0,,gdp
+Palau,1990,PLW,0.234496,,15282.0,,"total_energy_supply, gdp"
+Palau,1991,PLW,0.234496,,15635.0,,"total_energy_supply, gdp"
+Palau,1992,PLW,0.197856,,16017.0,,"total_energy_supply, gdp"
+Palau,1993,PLW,0.197856,,16397.0,,"total_energy_supply, gdp"
+Palau,1994,PLW,0.197856,,16796.0,,"total_energy_supply, gdp"
+Palau,1995,PLW,0.197856,,17217.0,,"total_energy_supply, gdp"
+Palau,1996,PLW,0.197856,,17683.0,,"total_energy_supply, gdp"
+Palau,1997,PLW,0.20152,,18126.0,,"total_energy_supply, gdp"
+Palau,1998,PLW,0.20152,,18548.0,,"total_energy_supply, gdp"
+Palau,1999,PLW,0.20152,,18926.0,,"total_energy_supply, gdp"
+Palau,2000,PLW,0.212512,,19206.0,,"total_energy_supply, gdp"
+Palau,2001,PLW,0.216176,,19379.0,,"total_energy_supply, gdp"
+Palau,2002,PLW,0.216176,,19527.0,,"total_energy_supply, gdp"
+Palau,2003,PLW,0.212512,,19683.0,,"total_energy_supply, gdp"
+Palau,2004,PLW,0.216176,,19841.0,,"total_energy_supply, gdp"
+Palau,2005,PLW,0.227168,,19837.0,,"total_energy_supply, gdp"
+Palau,2006,PLW,0.227168,,19616.0,,"total_energy_supply, gdp"
+Palau,2007,PLW,0.25648,,19324.0,,"total_energy_supply, gdp"
+Palau,2008,PLW,0.208848,,19031.0,,"total_energy_supply, gdp"
+Palau,2009,PLW,0.197856,,18736.0,,"total_energy_supply, gdp"
+Palau,2010,PLW,0.208848,,18420.0,,"total_energy_supply, gdp"
+Palau,2011,PLW,0.216176,,18099.0,,"total_energy_supply, gdp"
+Palau,2012,PLW,0.223504,,17791.0,,"total_energy_supply, gdp"
+Palau,2013,PLW,0.230832,,17670.0,,"total_energy_supply, gdp"
+Palau,2014,PLW,0.21984,,17740.0,,"total_energy_supply, gdp"
+Palau,2015,PLW,0.205184,,17791.0,,"total_energy_supply, gdp"
+Palau,2016,PLW,0.212512,,17824.0,,"total_energy_supply, gdp"
+Palau,2017,PLW,0.216176,,17838.0,,"total_energy_supply, gdp"
+Palau,2018,PLW,0.216176,,17843.0,,"total_energy_supply, gdp"
+Palau,2019,PLW,0.21984,,17821.0,,"total_energy_supply, gdp"
+Palau,2020,PLW,0.212512,,17817.0,,"total_energy_supply, gdp"
+Palau,2021,PLW,0.216176,,17809.0,,"total_energy_supply, gdp"
+Palau,2022,PLW,0.21984,,17784.0,,"total_energy_supply, gdp"
+Palestine,1990,PSE,0.86836797,,2139065.0,10144810000.0,total_energy_supply
+Palestine,1991,PSE,0.886688,,2228955.0,9454877455.0,total_energy_supply
+Palestine,1992,PSE,0.916,,2324698.0,11394776250.0,total_energy_supply
+Palestine,1993,PSE,0.941648,,2425066.0,12261093169.0,total_energy_supply
+Palestine,1994,PSE,0.974624,,2529164.0,13843761534.0,total_energy_supply
+Palestine,1995,PSE,0.95264,,2636554.0,14426654108.0,total_energy_supply
+Palestine,1996,PSE,1.047904,,2746830.0,14210402096.0,total_energy_supply
+Papua New Guinea,1990,PNG,2.154432,10.251266,3896482.0,,gdp
+Papua New Guinea,1991,PNG,2.172752,10.126644,4021840.0,,gdp
+Papua New Guinea,1992,PNG,2.191072,10.736102,4166702.0,,gdp
+Papua New Guinea,1993,PNG,2.194736,10.926291,4320880.0,,gdp
+Papua New Guinea,1994,PNG,2.185931,10.417293,4480210.0,,gdp
+Papua New Guinea,1995,PNG,2.05184,11.425098,4644282.0,,gdp
+Papua New Guinea,1996,PNG,2.197386,11.848504,4813363.0,,gdp
+Papua New Guinea,1997,PNG,2.611134,11.625816,4987887.0,,gdp
+Papua New Guinea,1998,PNG,3.536205,11.412393,5166390.0,,gdp
+Papua New Guinea,1999,PNG,2.548491,11.463396,5349333.0,,gdp
+Papua New Guinea,2000,PNG,2.937897,13.261888,5537068.0,,gdp
+Papua New Guinea,2001,PNG,3.3359709,15.400113,5728444.0,,gdp
+Papua New Guinea,2002,PNG,3.666106,16.251263,5924010.0,,gdp
+Papua New Guinea,2003,PNG,4.053443,18.61665,6124005.0,,gdp
+Papua New Guinea,2004,PNG,4.687092,21.14325,6328042.0,,gdp
+Papua New Guinea,2005,PNG,4.983829,19.897886,6535905.0,,gdp
+Papua New Guinea,2006,PNG,5.050944,20.528765,6747724.0,,gdp
+Papua New Guinea,2007,PNG,6.614067,22.117071,6963353.0,,gdp
+Papua New Guinea,2008,PNG,5.544582,19.432575,7183002.0,,gdp
+Papua New Guinea,2009,PNG,5.264624,21.625868,7406442.0,,gdp
+Papua New Guinea,2010,PNG,4.714717,19.363543,7633524.0,,gdp
+Papua New Guinea,2011,PNG,5.275397,20.193491,7859349.0,,gdp
+Papua New Guinea,2012,PNG,4.927294,19.474957,8081396.0,,gdp
+Papua New Guinea,2013,PNG,5.387925,19.979355,8302700.0,,gdp
+Papua New Guinea,2014,PNG,6.978753,21.264826,8523440.0,,gdp
+Papua New Guinea,2015,PNG,6.47003,25.040426,8743247.0,,gdp
+Papua New Guinea,2016,PNG,6.955343,26.775097,8961717.0,,gdp
+Papua New Guinea,2017,PNG,6.523727,26.148066,9178717.0,,gdp
+Papua New Guinea,2018,PNG,7.630975,30.526829,9394518.0,,gdp
+Papua New Guinea,2019,PNG,7.575409,30.25866,9609014.0,,gdp
+Papua New Guinea,2020,PNG,8.05592,28.140394,9815743.0,,gdp
+Papua New Guinea,2021,PNG,7.57267,27.603998,10012898.0,,gdp
+Papua New Guinea,2022,PNG,8.184028,35.06386,10203177.0,,gdp
+Reunion,1990,REU,1.24156,5.6078186,652573.0,,gdp
+Reunion,1991,REU,1.635949,6.4184923,664459.0,,gdp
+Reunion,1992,REU,1.772475,6.647169,676431.0,,gdp
+Reunion,1993,REU,1.77355,8.310715,688101.0,,gdp
+Reunion,1994,REU,1.862443,8.612565,699373.0,,gdp
+Reunion,1995,REU,2.068596,8.498062,710463.0,,gdp
+Reunion,1996,REU,2.276985,8.522984,721455.0,,gdp
+Reunion,1997,REU,2.561243,8.540062,732714.0,,gdp
+Reunion,1998,REU,2.636799,10.841669,744075.0,,gdp
+Reunion,1999,REU,2.904267,10.843669,754119.0,,gdp
+Reunion,2000,REU,3.183341,10.269797,763148.0,,gdp
+Reunion,2001,REU,3.293434,10.291321,772242.0,,gdp
+Reunion,2002,REU,3.313737,10.484358,781307.0,,gdp
+Reunion,2003,REU,3.128386,10.602525,790570.0,,gdp
+Reunion,2004,REU,3.26496,11.909056,797012.0,,gdp
+Reunion,2005,REU,3.679506,11.260041,800227.0,,gdp
+Reunion,2006,REU,3.894223,10.582189,806686.0,,gdp
+Reunion,2007,REU,4.084851,10.222006,818729.0,,gdp
+Reunion,2008,REU,4.250301,11.256151,830496.0,,gdp
+Reunion,2009,REU,4.320231,11.646469,838473.0,,gdp
+Reunion,2010,REU,4.459135,12.669588,844480.0,,gdp
+Reunion,2011,REU,4.47338,10.986897,846790.0,,gdp
+Reunion,2012,REU,4.431201,0.0,845062.0,,gdp
+Reunion,2013,REU,4.346321,0.0,847600.0,,gdp
+Reunion,2014,REU,4.328702,0.0,858677.0,,gdp
+Reunion,2015,REU,4.394915,0.0,865016.0,,gdp
+Reunion,2016,REU,4.495184,0.0,862861.0,,gdp
+Reunion,2017,REU,4.442525,0.0,858761.0,,gdp
+Reunion,2018,REU,4.429548,0.0,856946.0,,gdp
+Reunion,2019,REU,4.537542,0.0,857327.0,,gdp
+Reunion,2020,REU,4.072725,0.0,861452.0,,gdp
+Reunion,2021,REU,4.168587,0.0,868085.0,,gdp
+Reunion,2022,REU,4.160535,0.0,871543.0,,gdp
+Saint Helena,1990,SHN,0.007328,0.025903778,6639.0,,gdp
+Saint Helena,1991,SHN,0.007328,0.01273005,6601.0,,gdp
+Saint Helena,1992,SHN,0.007328,0.012733686,6545.0,,gdp
+Saint Helena,1993,SHN,0.010992,0.01273005,6495.0,,gdp
+Saint Helena,1994,SHN,0.010992,0.01273005,6433.0,,gdp
+Saint Helena,1995,SHN,0.010992,0.01273005,6373.0,,gdp
+Saint Helena,1996,SHN,0.010992,0.012733686,6309.0,,gdp
+Saint Helena,1997,SHN,0.010992,0.01273005,6249.0,,gdp
+Saint Helena,1998,SHN,0.010992,0.01273005,6184.0,,gdp
+Saint Helena,1999,SHN,0.010992,0.012735257,6113.0,,gdp
+Saint Helena,2000,SHN,0.010992,0.051447507,6045.0,,gdp
+Saint Helena,2001,SHN,0.010992,0.051372137,5963.0,,gdp
+Saint Helena,2002,SHN,0.010992,0.053568866,5879.0,,gdp
+Saint Helena,2003,SHN,0.010992,0.05299995,5775.0,,gdp
+Saint Helena,2004,SHN,0.007328,0.03459544,5678.0,,gdp
+Saint Helena,2005,SHN,0.010992,0.04317923,5570.0,,gdp
+Saint Helena,2006,SHN,0.010992,0.039768886,5457.0,,gdp
+Saint Helena,2007,SHN,0.010992,0.05038675,5346.0,,gdp
+Saint Helena,2008,SHN,0.010992,0.041006707,5295.0,,gdp
+Saint Helena,2009,SHN,0.010992,0.038560074,5320.0,,gdp
+Saint Helena,2010,SHN,0.010992,0.043716818,5352.0,,gdp
+Saint Helena,2011,SHN,0.010992,0.04276981,5385.0,,gdp
+Saint Helena,2012,SHN,0.010992,0.0473783,5428.0,,gdp
+Saint Helena,2013,SHN,0.010992,0.04544818,5462.0,,gdp
+Saint Helena,2014,SHN,0.010992,0.04314393,5493.0,,gdp
+Saint Helena,2015,SHN,0.010992,0.039271526,5529.0,,gdp
+Saint Helena,2016,SHN,0.014656,0.039564595,5544.0,,gdp
+Saint Helena,2017,SHN,0.010992,0.042304035,5528.0,,gdp
+Saint Helena,2018,SHN,0.010992,0.05097385,5507.0,,gdp
+Saint Helena,2019,SHN,0.014656,0.057225056,5485.0,,gdp
+Saint Helena,2020,SHN,0.010992,0.044517495,5451.0,,gdp
+Saint Helena,2021,SHN,0.007328,0.0375512,5415.0,,gdp
+Saint Helena,2022,SHN,0.010992,0.04389032,5369.0,,gdp
+Saint Kitts and Nevis,1990,KNA,0.106256,0.21934554,40456.0,,gdp
+Saint Kitts and Nevis,1991,KNA,0.106256,0.2945023,40382.0,,gdp
+Saint Kitts and Nevis,1992,KNA,0.10992,0.29516926,40740.0,,gdp
+Saint Kitts and Nevis,1993,KNA,0.113584,0.35996792,41266.0,,gdp
+Saint Kitts and Nevis,1994,KNA,0.120912,0.42227846,41798.0,,gdp
+Saint Kitts and Nevis,1995,KNA,0.124576,0.35996792,42347.0,,gdp
+Saint Kitts and Nevis,1996,KNA,0.131904,0.4234354,42903.0,,gdp
+Saint Kitts and Nevis,1997,KNA,0.139232,0.42227846,43453.0,,gdp
+Saint Kitts and Nevis,1998,KNA,0.150224,0.42227846,44018.0,,gdp
+Saint Kitts and Nevis,1999,KNA,0.157552,0.42227846,44625.0,,gdp
+Saint Kitts and Nevis,2000,KNA,0.172208,0.7712413,45272.0,,gdp
+Saint Kitts and Nevis,2001,KNA,0.175872,0.7972201,45785.0,,gdp
+Saint Kitts and Nevis,2002,KNA,0.19419199,0.8721584,46048.0,,gdp
+Saint Kitts and Nevis,2003,KNA,0.197856,0.8735624,46200.0,,gdp
+Saint Kitts and Nevis,2004,KNA,0.212512,0.9447932,46337.0,,gdp
+Saint Kitts and Nevis,2005,KNA,0.197856,0.88021934,46459.0,,gdp
+Saint Kitts and Nevis,2006,KNA,0.205184,0.91214526,46592.0,,gdp
+Saint Kitts and Nevis,2007,KNA,0.216176,0.964404,46734.0,,gdp
+Saint Kitts and Nevis,2008,KNA,0.216176,0.96331036,46857.0,,gdp
+Saint Kitts and Nevis,2009,KNA,0.21984,0.9857586,46941.0,,gdp
+Saint Kitts and Nevis,2010,KNA,0.223504,0.9927406,46871.0,,gdp
+Saint Kitts and Nevis,2011,KNA,0.230832,1.0310194,46917.0,,gdp
+Saint Kitts and Nevis,2012,KNA,0.223504,1.0207766,47056.0,,gdp
+Saint Kitts and Nevis,2013,KNA,0.227168,1.0169971,47092.0,,gdp
+Saint Kitts and Nevis,2014,KNA,0.227168,1.0299306,47112.0,,gdp
+Saint Kitts and Nevis,2015,KNA,0.230832,1.0551758,47108.0,,gdp
+Saint Kitts and Nevis,2016,KNA,0.241824,1.0836376,47099.0,,gdp
+Saint Kitts and Nevis,2017,KNA,0.241824,1.0882577,47075.0,,gdp
+Saint Kitts and Nevis,2018,KNA,0.249152,1.1095135,47032.0,,gdp
+Saint Kitts and Nevis,2019,KNA,0.260144,1.1265204,46976.0,,gdp
+Saint Kitts and Nevis,2020,KNA,0.241824,1.0502425,46896.0,,gdp
+Saint Kitts and Nevis,2021,KNA,0.23816,1.0435556,46786.0,,gdp
+Saint Kitts and Nevis,2022,KNA,0.249152,1.1327134,46732.0,,gdp
+Saint Pierre and Miquelon,1990,SPM,0.0916,1.0112433,6377.0,,gdp
+Saint Pierre and Miquelon,1991,SPM,0.102592,0.9499879,6400.0,,gdp
+Saint Pierre and Miquelon,1992,SPM,0.095264,0.87473804,6428.0,,gdp
+Saint Pierre and Miquelon,1993,SPM,0.07328,0.4984846,6440.0,,gdp
+Saint Pierre and Miquelon,1994,SPM,0.069616,0.50878376,6455.0,,gdp
+Saint Pierre and Miquelon,1995,SPM,0.069616,0.321852,6459.0,,gdp
+Saint Pierre and Miquelon,1996,SPM,0.069616,0.3227027,6451.0,,gdp
+Saint Pierre and Miquelon,1997,SPM,0.047632,0.18693171,6438.0,,gdp
+Saint Pierre and Miquelon,1998,SPM,0.05496,0.2492423,6392.0,,gdp
+Saint Pierre and Miquelon,1999,SPM,0.05496,0.2492423,6338.0,,gdp
+Saint Pierre and Miquelon,2000,SPM,0.05496,0.28136575,6317.0,,gdp
+Saint Pierre and Miquelon,2001,SPM,0.05496,0.28136575,6299.0,,gdp
+Saint Pierre and Miquelon,2002,SPM,0.058624,0.30683625,6273.0,,gdp
+Saint Pierre and Miquelon,2003,SPM,0.062288,0.34543875,6234.0,,gdp
+Saint Pierre and Miquelon,2004,SPM,0.058624,0.33270347,6191.0,,gdp
+Saint Pierre and Miquelon,2005,SPM,0.062288,0.34543875,6139.0,,gdp
+Saint Pierre and Miquelon,2006,SPM,0.062288,0.34543875,6094.0,,gdp
+Saint Pierre and Miquelon,2007,SPM,0.062288,0.358174,6074.0,,gdp
+Saint Pierre and Miquelon,2008,SPM,0.062288,0.358174,6063.0,,gdp
+Saint Pierre and Miquelon,2009,SPM,0.062288,0.358174,6054.0,,gdp
+Saint Pierre and Miquelon,2010,SPM,0.062288,0.37290925,6047.0,,gdp
+Saint Pierre and Miquelon,2011,SPM,0.065952,0.3754563,6036.0,,gdp
+Saint Pierre and Miquelon,2012,SPM,0.065952,0.37036216,6019.0,,gdp
+Saint Pierre and Miquelon,2013,SPM,0.065952,0.37927687,5999.0,,gdp
+Saint Pierre and Miquelon,2014,SPM,0.065952,0.39900616,5984.0,,gdp
+Saint Pierre and Miquelon,2015,SPM,0.065952,0.39900616,5971.0,,gdp
+Saint Pierre and Miquelon,2016,SPM,0.065952,0.40624097,5957.0,,gdp
+Saint Pierre and Miquelon,2017,SPM,0.065952,0.39900616,5946.0,,gdp
+Saint Pierre and Miquelon,2018,SPM,0.058624,0.28608045,5932.0,,gdp
+Saint Pierre and Miquelon,2019,SPM,0.065952,0.30580503,5899.0,,gdp
+Saint Pierre and Miquelon,2020,SPM,0.062288,0.28751516,5852.0,,gdp
+Saint Pierre and Miquelon,2021,SPM,0.05496,0.2571185,5802.0,,gdp
+Saint Pierre and Miquelon,2022,SPM,0.051296,0.2478678,5760.0,,gdp
+Saint Vincent and the Grenadines,1990,VCT,0.080608,0.31705126,111825.0,,gdp
+Saint Vincent and the Grenadines,1991,VCT,0.084272,0.29092512,112236.0,,gdp
+Saint Vincent and the Grenadines,1992,VCT,0.084272,0.3610577,112524.0,,gdp
+Saint Vincent and the Grenadines,1993,VCT,0.102592,0.30092514,112753.0,,gdp
+Saint Vincent and the Grenadines,1994,VCT,0.120912,0.5343296,112933.0,,gdp
+Saint Vincent and the Grenadines,1995,VCT,0.12824,0.59052145,113064.0,,gdp
+Saint Vincent and the Grenadines,1996,VCT,0.131904,0.5354846,113136.0,,gdp
+Saint Vincent and the Grenadines,1997,VCT,0.131904,0.62463856,113158.0,,gdp
+Saint Vincent and the Grenadines,1998,VCT,0.161216,0.686224,113195.0,,gdp
+Saint Vincent and the Grenadines,1999,VCT,0.16488,0.6862304,113384.0,,gdp
+Saint Vincent and the Grenadines,2000,VCT,0.142896,0.65133035,113561.0,,gdp
+Saint Vincent and the Grenadines,2001,VCT,0.175872,0.77282155,113506.0,,gdp
+Saint Vincent and the Grenadines,2002,VCT,0.186864,0.8336138,113365.0,,gdp
+Saint Vincent and the Grenadines,2003,VCT,0.20152,0.8779205,113149.0,,gdp
+Saint Vincent and the Grenadines,2004,VCT,0.21984,0.9631157,112856.0,,gdp
+Saint Vincent and the Grenadines,2005,VCT,0.21984,0.9690738,112465.0,,gdp
+Saint Vincent and the Grenadines,2006,VCT,0.21984,0.96734726,112027.0,,gdp
+Saint Vincent and the Grenadines,2007,VCT,0.23816,0.9876646,111544.0,,gdp
+Saint Vincent and the Grenadines,2008,VCT,0.21984,0.98710686,111047.0,,gdp
+Saint Vincent and the Grenadines,2009,VCT,0.278464,1.3441164,110521.0,,gdp
+Saint Vincent and the Grenadines,2010,VCT,0.223504,0.97673786,109974.0,,gdp
+Saint Vincent and the Grenadines,2011,VCT,0.21984,0.904046,109367.0,,gdp
+Saint Vincent and the Grenadines,2012,VCT,0.230832,1.1072698,108753.0,,gdp
+Saint Vincent and the Grenadines,2013,VCT,0.21984,0.90105087,108156.0,,gdp
+Saint Vincent and the Grenadines,2014,VCT,0.25648,0.9490452,107555.0,,gdp
+Saint Vincent and the Grenadines,2015,VCT,0.23816,0.9644317,106975.0,,gdp
+Saint Vincent and the Grenadines,2016,VCT,0.245488,0.96475524,106365.0,,gdp
+Saint Vincent and the Grenadines,2017,VCT,0.216176,1.1086113,105674.0,,gdp
+Saint Vincent and the Grenadines,2018,VCT,0.245488,1.0645465,104939.0,,gdp
+Saint Vincent and the Grenadines,2019,VCT,0.223504,0.9771727,104183.0,,gdp
+Saint Vincent and the Grenadines,2020,VCT,0.23816,1.0463387,103540.0,,gdp
+Saint Vincent and the Grenadines,2021,VCT,0.23816,1.0295953,102848.0,,gdp
+Saint Vincent and the Grenadines,2022,VCT,0.245488,1.0729318,102063.0,,gdp
+Samoa,1990,WSM,0.0916,0.55466217,169061.0,,gdp
+Samoa,1991,WSM,0.098928,0.55466217,169378.0,,gdp
+Samoa,1992,WSM,0.098928,0.5047812,170340.0,,gdp
+Samoa,1993,WSM,0.10992,0.55966216,171786.0,,gdp
+Samoa,1994,WSM,0.098928,0.55966216,173167.0,,gdp
+Samoa,1995,WSM,0.113584,0.56066215,174585.0,,gdp
+Samoa,1996,WSM,0.12824,0.566127,176086.0,,gdp
+Samoa,1997,WSM,0.124576,0.5676622,177561.0,,gdp
+Samoa,1998,WSM,0.142896,0.5726622,178921.0,,gdp
+Samoa,1999,WSM,0.139232,0.57766217,180279.0,,gdp
+Samoa,2000,WSM,0.142896,0.8598545,181695.0,,gdp
+Samoa,2001,WSM,0.157552,0.8957913,183174.0,,gdp
+Samoa,2002,WSM,0.161216,0.925816,184482.0,,gdp
+Samoa,2003,WSM,0.161216,0.9516559,185447.0,,gdp
+Samoa,2004,WSM,0.168544,0.96116376,186265.0,,gdp
+Samoa,2005,WSM,0.172208,0.9746542,186993.0,,gdp
+Samoa,2006,WSM,0.172208,1.0095947,187724.0,,gdp
+Samoa,2007,WSM,0.179536,1.0822549,188766.0,,gdp
+Samoa,2008,WSM,0.16488,1.1113191,190117.0,,gdp
+Samoa,2009,WSM,0.172208,1.1695951,191530.0,,gdp
+Samoa,2010,WSM,0.186864,1.168333,193035.0,,gdp
+Samoa,2011,WSM,0.190528,1.1789306,194726.0,,gdp
+Samoa,2012,WSM,0.197856,1.1733701,196518.0,,gdp
+Samoa,2013,WSM,0.19419199,1.1455619,198284.0,,gdp
+Samoa,2014,WSM,0.208848,1.165588,200051.0,,gdp
+Samoa,2015,WSM,0.23816,1.3513669,201794.0,,gdp
+Samoa,2016,WSM,0.245488,1.4326727,203509.0,,gdp
+Samoa,2017,WSM,0.241824,1.373943,205423.0,,gdp
+Samoa,2018,WSM,0.245488,1.4059078,207595.0,,gdp
+Samoa,2019,WSM,0.271136,1.511493,209794.0,,gdp
+Samoa,2020,WSM,0.241824,1.3103726,211957.0,,gdp
+Samoa,2021,WSM,0.278464,1.3058369,213792.0,,gdp
+Samoa,2022,WSM,0.241824,1.3491608,215270.0,,gdp
+San Marino,1990,SMR,,,23501.0,,"co2, total_energy_supply, gdp"
+San Marino,1991,SMR,,,23823.0,,"co2, total_energy_supply, gdp"
+San Marino,1992,SMR,,,24149.0,,"co2, total_energy_supply, gdp"
+San Marino,1993,SMR,,,24499.0,,"co2, total_energy_supply, gdp"
+San Marino,1994,SMR,,,24853.0,,"co2, total_energy_supply, gdp"
+San Marino,1995,SMR,,,25183.0,,"co2, total_energy_supply, gdp"
+San Marino,1996,SMR,,,25503.0,,"co2, total_energy_supply, gdp"
+San Marino,1997,SMR,,,25821.0,,"co2, total_energy_supply, gdp"
+San Marino,1998,SMR,,,26149.0,,"co2, total_energy_supply, gdp"
+San Marino,1999,SMR,,,26485.0,,"co2, total_energy_supply, gdp"
+San Marino,2000,SMR,,,26823.0,,"co2, total_energy_supply, gdp"
+San Marino,2001,SMR,,,27173.0,,"co2, total_energy_supply, gdp"
+San Marino,2002,SMR,,,27515.0,,"co2, total_energy_supply, gdp"
+San Marino,2003,SMR,,,27871.0,,"co2, total_energy_supply, gdp"
+San Marino,2004,SMR,,,28230.0,,"co2, total_energy_supply, gdp"
+San Marino,2005,SMR,,,28600.0,,"co2, total_energy_supply, gdp"
+San Marino,2006,SMR,,,28966.0,,"co2, total_energy_supply, gdp"
+San Marino,2007,SMR,,,29334.0,,"co2, total_energy_supply, gdp"
+San Marino,2008,SMR,,,29721.0,,"co2, total_energy_supply, gdp"
+San Marino,2009,SMR,,,30115.0,,"co2, total_energy_supply, gdp"
+San Marino,2010,SMR,,,30648.0,,"co2, total_energy_supply, gdp"
+San Marino,2011,SMR,,,32194.0,,"co2, total_energy_supply, gdp"
+San Marino,2012,SMR,,,33494.0,,"co2, total_energy_supply, gdp"
+San Marino,2013,SMR,,,33641.0,,"co2, total_energy_supply, gdp"
+San Marino,2014,SMR,,,33753.0,,"co2, total_energy_supply, gdp"
+San Marino,2015,SMR,,,33927.0,,"co2, total_energy_supply, gdp"
+San Marino,2016,SMR,,,34188.0,,"co2, total_energy_supply, gdp"
+San Marino,2017,SMR,,,34405.0,,"co2, total_energy_supply, gdp"
+San Marino,2018,SMR,,,34557.0,,"co2, total_energy_supply, gdp"
+San Marino,2019,SMR,,,34674.0,,"co2, total_energy_supply, gdp"
+San Marino,2020,SMR,,,34796.0,,"co2, total_energy_supply, gdp"
+San Marino,2021,SMR,,,34599.0,,"co2, total_energy_supply, gdp"
+San Marino,2022,SMR,,,34113.0,,"co2, total_energy_supply, gdp"
+Serbia,1990,SRB,58.86943,,7874595.0,75948516071.0,total_energy_supply
+Serbia,1991,SRB,41.73856,,7867067.0,68073341363.0,total_energy_supply
+Serbia,1992,SRB,44.132435,,7859811.0,50213316006.0,total_energy_supply
+Serbia,1993,SRB,38.387794,,7849723.0,35705127092.0,total_energy_supply
+Serbia,1994,SRB,37.353817,,7837157.0,37491186647.0,total_energy_supply
+Serbia,1995,SRB,39.46026,,7823281.0,40606796137.0,total_energy_supply
+Serbia,1996,SRB,46.250298,,7807720.0,43633612702.0,total_energy_supply
+Serbia,1997,SRB,49.439537,,7789186.0,47961715204.0,total_energy_supply
+Serbia,1998,SRB,51.56197,,7765929.0,50248494231.0,total_energy_supply
+Serbia,1999,SRB,35.60173,,7734367.0,42108008598.0,total_energy_supply
+Serbia,2000,SRB,39.55081,,7694608.0,45972177454.0,total_energy_supply
+Serbia,2001,SRB,42.51966,,7651927.0,49551965376.0,total_energy_supply
+Serbia,2002,SRB,45.475216,,7616741.0,54169287385.0,total_energy_supply
+Serbia,2003,SRB,48.63984,,7590946.0,57670215281.0,total_energy_supply
+Serbia,2004,SRB,52.932587,,7565843.0,64122161308.0,total_energy_supply
+Serbia,2005,SRB,50.187683,,7539139.0,69083768076.0,total_energy_supply
+Sint Maarten (Dutch part),1990,SXM,0.672149,,28079.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),1991,SXM,0.54154,,30063.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),1992,SXM,0.450025,,31589.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),1993,SXM,0.720128,,32050.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),1994,SXM,0.697472,,31941.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),1995,SXM,0.692141,,31796.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),1996,SXM,0.651714,,31622.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),1997,SXM,0.680146,,31421.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),1998,SXM,0.062639,,31215.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),1999,SXM,0.283875,,30998.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),2000,SXM,0.708134,,30796.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),2001,SXM,0.720128,,30751.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),2002,SXM,0.69525,,30986.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),2003,SXM,0.693918,,31346.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),2004,SXM,0.727681,,31714.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),2005,SXM,0.721461,,32083.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),2006,SXM,0.758778,,32448.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),2007,SXM,0.851182,,32811.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),2008,SXM,0.820529,,33165.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),2009,SXM,0.83741,,33514.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),2010,SXM,0.58863,,33814.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),2011,SXM,0.741452,,34288.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),2012,SXM,0.76944,,35040.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),2013,SXM,0.78776,,35871.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),2014,SXM,0.802416,,36695.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),2015,SXM,0.820736,,37490.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),2016,SXM,0.8244,,38274.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),2017,SXM,0.780432,,39012.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),2018,SXM,0.758448,,39736.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),2019,SXM,0.762112,,40410.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),2020,SXM,0.725472,,41027.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),2021,SXM,0.758448,,41593.0,,"total_energy_supply, gdp"
+Sint Maarten (Dutch part),2022,SXM,0.76944,,42163.0,,"total_energy_supply, gdp"
+Solomon Islands,1990,SLB,0.150224,0.7039742,331448.0,,gdp
+Solomon Islands,1991,SLB,0.157552,0.7039742,341743.0,,gdp
+Solomon Islands,1992,SLB,0.16488,0.7056485,352215.0,,gdp
+Solomon Islands,1993,SLB,0.172208,0.7039742,362850.0,,gdp
+Solomon Islands,1994,SLB,0.186864,0.7039742,373685.0,,gdp
+Solomon Islands,1995,SLB,0.19419199,0.7039742,384744.0,,gdp
+Solomon Islands,1996,SLB,0.20152,0.7056485,396017.0,,gdp
+Solomon Islands,1997,SLB,0.208848,0.7039742,407480.0,,gdp
+Solomon Islands,1998,SLB,0.216176,0.7039742,419078.0,,gdp
+Solomon Islands,1999,SLB,0.223504,0.70398057,430511.0,,gdp
+Solomon Islands,2000,SLB,0.234496,1.0562663,440481.0,,gdp
+Solomon Islands,2001,SLB,0.241824,1.1048013,449137.0,,gdp
+Solomon Islands,2002,SLB,0.252816,1.1416957,457676.0,,gdp
+Solomon Islands,2003,SLB,0.263808,1.1932362,466164.0,,gdp
+Solomon Islands,2004,SLB,0.282128,1.2691125,474618.0,,gdp
+Solomon Islands,2005,SLB,0.289456,1.300733,483090.0,,gdp
+Solomon Islands,2006,SLB,0.300448,1.3493747,491602.0,,gdp
+Solomon Islands,2007,SLB,0.31144,1.4384217,500168.0,,gdp
+Solomon Islands,2008,SLB,0.318768,1.4597306,508802.0,,gdp
+Solomon Islands,2009,SLB,0.326096,1.5107042,518150.0,,gdp
+Solomon Islands,2010,SLB,0.337088,1.556493,532976.0,,gdp
+Solomon Islands,2011,SLB,0.351744,1.6141676,552958.0,,gdp
+Solomon Islands,2012,SLB,0.351744,1.6188295,573623.0,,gdp
+Solomon Islands,2013,SLB,0.381056,1.6122818,594952.0,,gdp
+Solomon Islands,2014,SLB,0.333424,1.5171127,616915.0,,gdp
+Solomon Islands,2015,SLB,0.414032,1.3857856,639423.0,,gdp
+Solomon Islands,2016,SLB,0.432352,1.330883,662387.0,,gdp
+Solomon Islands,2017,SLB,0.454336,1.3213356,685677.0,,gdp
+Solomon Islands,2018,SLB,0.47632,1.3532417,709109.0,,gdp
+Solomon Islands,2019,SLB,0.49464,1.331993,728156.0,,gdp
+Solomon Islands,2020,SLB,0.49464,1.3041724,744505.0,,gdp
+Solomon Islands,2021,SLB,0.509296,1.2899848,762594.0,,gdp
+Solomon Islands,2022,SLB,0.527616,1.2513224,781075.0,,gdp
+Somalia,1990,SOM,0.782197,4.0684986,7082816.0,,gdp
+Somalia,1991,SOM,0.707587,2.4244936,6813762.0,,gdp
+Somalia,1992,SOM,0.666088,2.2531505,6495109.0,,gdp
+Somalia,1993,SOM,0.625768,2.3713613,6681406.0,,gdp
+Somalia,1994,SOM,0.618425,2.3713613,7026804.0,,gdp
+Somalia,1995,SOM,0.585433,2.3713613,7285013.0,,gdp
+Somalia,1996,SOM,0.575248,2.3778582,7554476.0,,gdp
+Somalia,1997,SOM,0.534944,2.3713613,7824531.0,,gdp
+Somalia,1998,SOM,0.505632,2.3713613,8155414.0,,gdp
+Somalia,1999,SOM,0.487312,2.371362,8492066.0,,gdp
+Somalia,2000,SOM,0.509296,2.966189,8838714.0,,gdp
+Somalia,2001,SOM,0.542272,3.0154185,9198495.0,,gdp
+Somalia,2002,SOM,0.575248,3.2598057,9550069.0,,gdp
+Somalia,2003,SOM,0.60456,3.2598057,9909161.0,,gdp
+Somalia,2004,SOM,0.626544,3.26211,10281001.0,,gdp
+Somalia,2005,SOM,0.648528,3.2936735,10644234.0,,gdp
+Somalia,2006,SOM,0.670512,3.3188102,10975502.0,,gdp
+Somalia,2007,SOM,0.692496,3.3664858,11322581.0,,gdp
+Somalia,2008,SOM,0.721808,3.3308442,11663090.0,,gdp
+Somalia,2009,SOM,0.743792,3.3219943,11961205.0,,gdp
+Somalia,2010,SOM,0.77676797,3.405021,12261761.0,,gdp
+Somalia,2011,SOM,0.809744,3.405021,12348829.0,,gdp
+Somalia,2012,SOM,0.831728,3.409021,12461163.0,,gdp
+Somalia,2013,SOM,0.857376,3.409021,12869599.0,,gdp
+Somalia,2014,SOM,0.886688,3.409121,13339497.0,,gdp
+Somalia,2015,SOM,0.923328,3.5358272,13806969.0,,gdp
+Somalia,2016,SOM,0.956304,3.6065166,14348741.0,,gdp
+Somalia,2017,SOM,0.992944,3.5983646,14916630.0,,gdp
+Somalia,2018,SOM,1.033248,5.0493035,15452489.0,,gdp
+Somalia,2019,SOM,1.084544,5.229314,16030969.0,,gdp
+Somalia,2020,SOM,1.150496,5.680109,16651200.0,,gdp
+Somalia,2021,SOM,1.168816,5.8159695,17271435.0,,gdp
+Somalia,2022,SOM,1.289728,6.403441,17801895.0,,gdp
+South Sudan,1990,SSD,0.418068,,4737637.0,,"total_energy_supply, gdp"
+South Sudan,1991,SSD,0.392211,,4836686.0,,"total_energy_supply, gdp"
+South Sudan,1992,SSD,0.351247,,4909746.0,,"total_energy_supply, gdp"
+South Sudan,1993,SSD,0.243462,,4956006.0,,"total_energy_supply, gdp"
+South Sudan,1994,SSD,0.333525,,5071191.0,,"total_energy_supply, gdp"
+South Sudan,1995,SSD,0.344565,,5225840.0,,"total_energy_supply, gdp"
+South Sudan,1996,SSD,0.355605,,5356925.0,,"total_energy_supply, gdp"
+South Sudan,1997,SSD,0.439567,,5509142.0,,"total_energy_supply, gdp"
+South Sudan,1998,SSD,0.382914,,5620077.0,,"total_energy_supply, gdp"
+South Sudan,1999,SSD,0.415453,,5771632.0,,"total_energy_supply, gdp"
+South Sudan,2000,SSD,0.45235,,6032274.0,,"total_energy_supply, gdp"
+South Sudan,2001,SSD,0.516266,,6308399.0,,"total_energy_supply, gdp"
+South Sudan,2002,SSD,0.655138,,6596810.0,,"total_energy_supply, gdp"
+South Sudan,2003,SSD,0.730675,,6903129.0,,"total_energy_supply, gdp"
+South Sudan,2004,SSD,0.923004,,7233040.0,,"total_energy_supply, gdp"
+South Sudan,2005,SSD,0.884945,,7590147.0,,"total_energy_supply, gdp"
+South Sudan,2006,SSD,0.967745,,7976532.0,,"total_energy_supply, gdp"
+South Sudan,2007,SSD,1.136251,,8388785.0,,"total_energy_supply, gdp"
+South Sudan,2008,SSD,1.205977,,8817645.0,,"total_energy_supply, gdp"
+South Sudan,2009,SSD,1.249556,,9243560.0,,"total_energy_supply, gdp"
+South Sudan,2010,SSD,1.271636,,9745955.0,,"total_energy_supply, gdp"
+South Sudan,2011,SSD,1.242874,,10288112.0,,"total_energy_supply, gdp"
+South Sudan,2012,SSD,1.330032,5.9631734,10756245.0,,gdp
+South Sudan,2013,SSD,1.524224,6.3077064,11166280.0,,gdp
+South Sudan,2014,SSD,1.623152,6.525883,11235071.0,,gdp
+South Sudan,2015,SSD,2.048176,7.998528,11107569.0,,gdp
+South Sudan,2016,SSD,1.934592,7.7248573,10830108.0,,gdp
+South Sudan,2017,SSD,1.81368,6.7675223,10259150.0,,gdp
+South Sudan,2018,SSD,2.16176,7.863707,10122983.0,,gdp
+South Sudan,2019,SSD,2.315648,7.4193354,10423382.0,,gdp
+South Sudan,2020,SSD,2.392592,6.7181153,10698471.0,,gdp
+South Sudan,2021,SSD,2.597776,7.2610836,10865786.0,,gdp
+South Sudan,2022,SSD,2.72968,6.8123536,11021175.0,,gdp
+Sudan,1990,SDN,4.847054,16.686346,22021484.0,,gdp
+Sudan,1991,SDN,4.546708,23.782324,22470676.0,,gdp
+Sudan,1992,SDN,4.067463,21.720959,22927356.0,,gdp
+Sudan,1993,SDN,2.815735,20.49331,23445599.0,,gdp
+Sudan,1994,SDN,3.907011,18.59824,24043951.0,,gdp
+Sudan,1995,SDN,4.031828,17.284128,24672144.0,,gdp
+Sudan,1996,SDN,4.168847,17.390116,25231534.0,,gdp
+Sudan,1997,SDN,5.16081,17.862886,25799826.0,,gdp
+Sudan,1998,SDN,4.513014,17.915195,26458999.0,,gdp
+Sudan,1999,SDN,4.90804,19.20183,27130619.0,,gdp
+Sudan,2000,SDN,5.467007,28.769615,27816748.0,,gdp
+Sudan,2001,SDN,6.170366,30.867027,28516774.0,,gdp
+Sudan,2002,SDN,7.795295,37.032547,29228728.0,,gdp
+Sudan,2003,SDN,8.681567,38.755005,29896038.0,,gdp
+Sudan,2004,SDN,11.072255,42.859837,30556641.0,,gdp
+Sudan,2005,SDN,10.763833,49.807808,31262447.0,,gdp
+Sudan,2006,SDN,11.754952,59.670906,31992438.0,,gdp
+Sudan,2007,SDN,13.803624,63.35883,32764139.0,,gdp
+Sudan,2008,SDN,14.50061,69.29025,33623980.0,,gdp
+Sudan,2009,SDN,15.063639,71.644165,34569114.0,,gdp
+Sudan,2010,SDN,15.335533,76.453766,35414403.0,,gdp
+Sudan,2011,SDN,14.906048,72.92818,36140808.0,,gdp
+Sudan,2012,SDN,15.834678,70.12567,36923175.0,,gdp
+Sudan,2013,SDN,17.399126,71.34884,37785852.0,,gdp
+Sudan,2014,SDN,13.147494,72.67571,38823324.0,,gdp
+Sudan,2015,SDN,14.367605,76.66604,40024433.0,,gdp
+Sudan,2016,SDN,19.816082,92.58589,41259892.0,,gdp
+Sudan,2017,SDN,20.40253,93.20285,42714311.0,,gdp
+Sudan,2018,SDN,21.507463,95.545815,44230597.0,,gdp
+Sudan,2019,SDN,24.733683,96.403275,45548179.0,,gdp
+Sudan,2020,SDN,20.203627,80.28352,46789237.0,,gdp
+Sudan,2021,SDN,19.650488,81.88894,48066930.0,,gdp
+Sudan,2022,SDN,18.12092,91.55798,49383344.0,,gdp
+Suriname,1990,SUR,1.760306,7.657673,412500.0,,gdp
+Suriname,1991,SUR,2.046024,7.454061,415021.0,,gdp
+Suriname,1992,SUR,2.053277,7.1545634,417602.0,,gdp
+Suriname,1993,SUR,2.056867,7.3961964,419357.0,,gdp
+Suriname,1994,SUR,2.061448,7.3831487,422382.0,,gdp
+Suriname,1995,SUR,2.083343,7.3436985,429611.0,,gdp
+Suriname,1996,SUR,2.105238,7.210469,438834.0,,gdp
+Suriname,1997,SUR,2.127132,7.46174,448068.0,,gdp
+Suriname,1998,SUR,2.127043,7.4517775,457413.0,,gdp
+Suriname,1999,SUR,2.145274,7.468778,466925.0,,gdp
+Suriname,2000,SUR,2.211137,6.950342,476647.0,,gdp
+Suriname,2001,SUR,2.381779,6.785881,486566.0,,gdp
+Suriname,2002,SUR,1.582842,7.6902575,496566.0,,gdp
+Suriname,2003,SUR,1.560672,6.6342483,506421.0,,gdp
+Suriname,2004,SUR,1.578807,7.717261,513928.0,,gdp
+Suriname,2005,SUR,1.611598,7.7732434,519321.0,,gdp
+Suriname,2006,SUR,1.769262,8.555403,525003.0,,gdp
+Suriname,2007,SUR,1.787312,7.8998117,531026.0,,gdp
+Suriname,2008,SUR,1.973918,9.651385,537252.0,,gdp
+Suriname,2009,SUR,2.022047,9.867324,543580.0,,gdp
+Suriname,2010,SUR,2.415699,11.55256,549931.0,,gdp
+Suriname,2011,SUR,2.765231,9.30717,556279.0,,gdp
+Suriname,2012,SUR,2.50106,10.661273,562640.0,,gdp
+Suriname,2013,SUR,3.206385,9.942857,569024.0,,gdp
+Suriname,2014,SUR,3.208221,9.99937,575380.0,,gdp
+Suriname,2015,SUR,2.7209089,9.574217,581634.0,,gdp
+Suriname,2016,SUR,2.920842,9.163984,587765.0,,gdp
+Suriname,2017,SUR,2.4338639,10.282017,593720.0,,gdp
+Suriname,2018,SUR,2.09676,8.478574,599519.0,,gdp
+Suriname,2019,SUR,2.635977,10.124675,605779.0,,gdp
+Suriname,2020,SUR,2.924743,9.390372,612320.0,,gdp
+Suriname,2021,SUR,2.650341,10.799623,617905.0,,gdp
+Suriname,2022,SUR,2.8086889,11.41064,623172.0,,gdp
+Tajikistan,1990,TJK,12.394659,,5398773.0,25321416000.0,total_energy_supply
+Tajikistan,1991,TJK,10.082483,,5541200.0,23089121806.0,total_energy_supply
+Tonga,1990,TON,0.080608,0.39283487,99717.0,,gdp
+Tonga,1991,TON,0.087936,0.399023,99911.0,,gdp
+Tonga,1992,TON,0.07328,0.37939608,100045.0,,gdp
+Tonga,1993,TON,0.084272,0.37856907,100120.0,,gdp
+Tonga,1994,TON,0.087936,0.5144775,100187.0,,gdp
+Tonga,1995,TON,0.095264,0.46501315,100240.0,,gdp
+Tonga,1996,TON,0.076944,0.52847743,100294.0,,gdp
+Tonga,1997,TON,0.095264,0.5530161,100691.0,,gdp
+Tonga,1998,TON,0.0916,0.5622899,101406.0,,gdp
+Tonga,1999,TON,0.10992,0.56229955,102058.0,,gdp
+Tonga,2000,TON,0.098928,0.4381675,102695.0,,gdp
+Tonga,2001,TON,0.0916,0.39465553,103305.0,,gdp
+Tonga,2002,TON,0.098928,0.4279255,103888.0,,gdp
+Tonga,2003,TON,0.120912,0.5272463,104481.0,,gdp
+Tonga,2004,TON,0.113584,0.4882951,105088.0,,gdp
+Tonga,2005,TON,0.113584,0.51998353,105684.0,,gdp
+Tonga,2006,TON,0.131904,0.5849014,106266.0,,gdp
+Tonga,2007,TON,0.117248,0.5007443,106744.0,,gdp
+Tonga,2008,TON,0.10992,0.5407515,107036.0,,gdp
+Tonga,2009,TON,0.120912,0.5869289,107219.0,,gdp
+Tonga,2010,TON,0.120912,0.55840397,107415.0,,gdp
+Tonga,2011,TON,0.10992,0.5208058,107584.0,,gdp
+Tonga,2012,TON,0.10992,0.6769747,107476.0,,gdp
+Tonga,2013,TON,0.113584,0.8097771,107093.0,,gdp
+Tonga,2014,TON,0.10992,0.8205939,106627.0,,gdp
+Tonga,2015,TON,0.10992,0.8183953,106110.0,,gdp
+Tonga,2016,TON,0.139232,0.95219165,105536.0,,gdp
+Tonga,2017,TON,0.142896,1.061509,105373.0,,gdp
+Tonga,2018,TON,0.131904,0.91472024,105590.0,,gdp
+Tonga,2019,TON,0.161216,0.886405,105688.0,,gdp
+Tonga,2020,TON,0.139232,0.7967968,105721.0,,gdp
+Tonga,2021,TON,0.142896,0.7996178,105504.0,,gdp
+Tonga,2022,TON,0.14656,0.75570637,105053.0,,gdp
+Turks and Caicos Islands,1990,TCA,0.058624,0.0,11708.0,,gdp
+Turks and Caicos Islands,1991,TCA,0.062288,0.0,12328.0,,gdp
+Turks and Caicos Islands,1992,TCA,0.065952,0.0,12992.0,,gdp
+Turks and Caicos Islands,1993,TCA,0.069616,0.0,13670.0,,gdp
+Turks and Caicos Islands,1994,TCA,0.069616,0.0,14368.0,,gdp
+Turks and Caicos Islands,1995,TCA,0.07328,0.05541887,15074.0,,gdp
+Turks and Caicos Islands,1996,TCA,0.07328,0.055570703,15786.0,,gdp
+Turks and Caicos Islands,1997,TCA,0.084272,0.055418745,16505.0,,gdp
+Turks and Caicos Islands,1998,TCA,0.087936,0.060961127,17236.0,,gdp
+Turks and Caicos Islands,1999,TCA,0.098928,0.060961127,17981.0,,gdp
+Turks and Caicos Islands,2000,TCA,0.10992,0.28909034,18754.0,,gdp
+Turks and Caicos Islands,2001,TCA,0.113584,0.3069197,19603.0,,gdp
+Turks and Caicos Islands,2002,TCA,0.153888,0.40869984,20619.0,,gdp
+Turks and Caicos Islands,2003,TCA,0.157552,0.42026347,21749.0,,gdp
+Turks and Caicos Islands,2004,TCA,0.161216,0.43299872,22881.0,,gdp
+Turks and Caicos Islands,2005,TCA,0.190528,0.50941026,24011.0,,gdp
+Turks and Caicos Islands,2006,TCA,0.21984,0.5858218,25146.0,,gdp
+Turks and Caicos Islands,2007,TCA,0.25648,0.68770385,26290.0,,gdp
+Turks and Caicos Islands,2008,TCA,0.267472,0.7322773,27452.0,,gdp
+Turks and Caicos Islands,2009,TCA,0.278464,0.7386449,28610.0,,gdp
+Turks and Caicos Islands,2010,TCA,0.285792,0.7641154,29763.0,,gdp
+Turks and Caicos Islands,2011,TCA,0.285792,0.7641154,30870.0,,gdp
+Turks and Caicos Islands,2012,TCA,0.285792,0.7641154,32152.0,,gdp
+Turks and Caicos Islands,2013,TCA,0.289456,0.7704831,33675.0,,gdp
+Turks and Caicos Islands,2014,TCA,0.31144,0.8277917,35077.0,,gdp
+Turks and Caicos Islands,2015,TCA,0.318768,0.85312986,36632.0,,gdp
+Turks and Caicos Islands,2016,TCA,0.333424,0.882437,38342.0,,gdp
+Turks and Caicos Islands,2017,TCA,0.359072,0.9551442,39931.0,,gdp
+Turks and Caicos Islands,2018,TCA,0.3664,1.8646184,41580.0,,gdp
+Turks and Caicos Islands,2019,TCA,0.370064,1.8827829,43191.0,,gdp
+Turks and Caicos Islands,2020,TCA,0.362736,1.8516735,44405.0,,gdp
+Turks and Caicos Islands,2021,TCA,0.370064,1.8961518,45262.0,,gdp
+Turks and Caicos Islands,2022,TCA,0.370064,1.8875625,45869.0,,gdp
+Tuvalu,1990,TUV,0.003664,0.0,8821.0,,gdp
+Tuvalu,1991,TUV,0.003664,0.0,8953.0,,gdp
+Tuvalu,1992,TUV,0.003664,0.0,9060.0,,gdp
+Tuvalu,1993,TUV,0.007328,0.0,9146.0,,gdp
+Tuvalu,1994,TUV,0.003664,0.0,9231.0,,gdp
+Tuvalu,1995,TUV,0.003664,0.0,9299.0,,gdp
+Tuvalu,1996,TUV,0.003664,0.0,9363.0,,gdp
+Tuvalu,1997,TUV,0.007328,0.0,9425.0,,gdp
+Tuvalu,1998,TUV,0.007328,0.0,9469.0,,gdp
+Tuvalu,1999,TUV,0.007328,0.0,9518.0,,gdp
+Tuvalu,2000,TUV,0.007328,0.0,9566.0,,gdp
+Tuvalu,2001,TUV,0.007328,0.0,9608.0,,gdp
+Tuvalu,2002,TUV,0.010992,0.0,9645.0,,gdp
+Tuvalu,2003,TUV,0.010992,0.0,9715.0,,gdp
+Tuvalu,2004,TUV,0.010992,0.0,9839.0,,gdp
+Tuvalu,2005,TUV,0.010992,0.0,9964.0,,gdp
+Tuvalu,2006,TUV,0.010992,0.0,10078.0,,gdp
+Tuvalu,2007,TUV,0.010992,0.0,10204.0,,gdp
+Tuvalu,2008,TUV,0.007328,0.0,10344.0,,gdp
+Tuvalu,2009,TUV,0.010992,0.0,10479.0,,gdp
+Tuvalu,2010,TUV,0.010992,0.0,10635.0,,gdp
+Tuvalu,2011,TUV,0.010992,0.0,10804.0,,gdp
+Tuvalu,2012,TUV,0.010992,0.0,10960.0,,gdp
+Tuvalu,2013,TUV,0.007328,0.0,11028.0,,gdp
+Tuvalu,2014,TUV,0.007328,0.0,11007.0,,gdp
+Tuvalu,2015,TUV,0.007328,0.0,10985.0,,gdp
+Tuvalu,2016,TUV,0.007328,0.0,10951.0,,gdp
+Tuvalu,2017,TUV,0.007328,0.0,10892.0,,gdp
+Tuvalu,2018,TUV,0.010992,0.0,10775.0,,gdp
+Tuvalu,2019,TUV,0.010992,0.0,10603.0,,gdp
+Tuvalu,2020,TUV,0.010992,0.0,10423.0,,gdp
+Tuvalu,2021,TUV,0.010992,0.0,10214.0,,gdp
+Tuvalu,2022,TUV,0.010992,0.0,10012.0,,gdp
+United Arab Emirates,1991,ARE,57.232662,420.83743,2006630.0,,gdp
+United Arab Emirates,1992,ARE,58.17376,406.69568,2114738.0,,gdp
+Vanuatu,1990,VUT,0.07328,0.48390847,148073.0,,gdp
+Vanuatu,1991,VUT,0.07328,0.40459403,151807.0,,gdp
+Vanuatu,1992,VUT,0.069616,0.21218392,155619.0,,gdp
+Vanuatu,1993,VUT,0.069616,0.21166553,159475.0,,gdp
+Vanuatu,1994,VUT,0.069616,0.21166553,163328.0,,gdp
+Vanuatu,1995,VUT,0.07328,0.21166553,167155.0,,gdp
+Vanuatu,1996,VUT,0.080608,0.21218392,170926.0,,gdp
+Vanuatu,1997,VUT,0.084272,0.21166553,174638.0,,gdp
+Vanuatu,1998,VUT,0.084272,0.21166553,178322.0,,gdp
+Vanuatu,1999,VUT,0.0916,0.21167545,182056.0,,gdp
+Vanuatu,2000,VUT,0.0916,0.38192254,186290.0,,gdp
+Vanuatu,2001,VUT,0.087936,0.42538476,191047.0,,gdp
+Vanuatu,2002,VUT,0.084272,0.40593863,195871.0,,gdp
+Vanuatu,2003,VUT,0.087936,0.47634575,200760.0,,gdp
+Vanuatu,2004,VUT,0.084272,0.383381,205720.0,,gdp
+Vanuatu,2005,VUT,0.084272,0.3833859,210772.0,,gdp
+Vanuatu,2006,VUT,0.084272,0.35560426,215939.0,,gdp
+Vanuatu,2007,VUT,0.087936,0.57652485,221291.0,,gdp
+Vanuatu,2008,VUT,0.098928,0.5684747,226908.0,,gdp
+Vanuatu,2009,VUT,0.135568,0.6569943,232740.0,,gdp
+Vanuatu,2010,VUT,0.135568,0.66978353,238256.0,,gdp
+Vanuatu,2011,VUT,0.142896,0.7779862,243483.0,,gdp
+Vanuatu,2012,VUT,0.131904,0.64975953,248894.0,,gdp
+Vanuatu,2013,VUT,0.120912,0.62715167,254495.0,,gdp
+Vanuatu,2014,VUT,0.172208,0.7158131,260247.0,,gdp
+Vanuatu,2015,VUT,0.14656,0.6715913,266115.0,,gdp
+Vanuatu,2016,VUT,0.16488,0.678893,272097.0,,gdp
+Vanuatu,2017,VUT,0.157552,0.75676763,278518.0,,gdp
+Vanuatu,2018,VUT,0.19419199,0.96714294,285273.0,,gdp
+Vanuatu,2019,VUT,0.1832,0.93144524,291995.0,,gdp
+Vanuatu,2020,VUT,0.21984,1.0851783,298867.0,,gdp
+Vanuatu,2021,VUT,0.234496,1.143598,305882.0,,gdp
+Vanuatu,2022,VUT,0.1832,1.1478738,313061.0,,gdp
+Vatican,1990,VAT,,,736.0,,"co2, total_energy_supply, gdp"
+Vatican,1991,VAT,,,737.0,,"co2, total_energy_supply, gdp"
+Vatican,1992,VAT,,,736.0,,"co2, total_energy_supply, gdp"
+Vatican,1993,VAT,,,729.0,,"co2, total_energy_supply, gdp"
+Vatican,1994,VAT,,,720.0,,"co2, total_energy_supply, gdp"
+Vatican,1995,VAT,,,714.0,,"co2, total_energy_supply, gdp"
+Vatican,1996,VAT,,,709.0,,"co2, total_energy_supply, gdp"
+Vatican,1997,VAT,,,706.0,,"co2, total_energy_supply, gdp"
+Vatican,1998,VAT,,,707.0,,"co2, total_energy_supply, gdp"
+Vatican,1999,VAT,,,706.0,,"co2, total_energy_supply, gdp"
+Vatican,2000,VAT,,,701.0,,"co2, total_energy_supply, gdp"
+Vatican,2001,VAT,,,691.0,,"co2, total_energy_supply, gdp"
+Vatican,2002,VAT,,,684.0,,"co2, total_energy_supply, gdp"
+Vatican,2003,VAT,,,674.0,,"co2, total_energy_supply, gdp"
+Vatican,2004,VAT,,,667.0,,"co2, total_energy_supply, gdp"
+Vatican,2005,VAT,,,667.0,,"co2, total_energy_supply, gdp"
+Vatican,2006,VAT,,,664.0,,"co2, total_energy_supply, gdp"
+Vatican,2007,VAT,,,657.0,,"co2, total_energy_supply, gdp"
+Vatican,2008,VAT,,,648.0,,"co2, total_energy_supply, gdp"
+Vatican,2009,VAT,,,637.0,,"co2, total_energy_supply, gdp"
+Vatican,2010,VAT,,,629.0,,"co2, total_energy_supply, gdp"
+Vatican,2011,VAT,,,624.0,,"co2, total_energy_supply, gdp"
+Vatican,2012,VAT,,,612.0,,"co2, total_energy_supply, gdp"
+Vatican,2013,VAT,,,598.0,,"co2, total_energy_supply, gdp"
+Vatican,2014,VAT,,,587.0,,"co2, total_energy_supply, gdp"
+Vatican,2015,VAT,,,579.0,,"co2, total_energy_supply, gdp"
+Vatican,2016,VAT,,,571.0,,"co2, total_energy_supply, gdp"
+Vatican,2017,VAT,,,563.0,,"co2, total_energy_supply, gdp"
+Vatican,2018,VAT,,,552.0,,"co2, total_energy_supply, gdp"
+Vatican,2019,VAT,,,543.0,,"co2, total_energy_supply, gdp"
+Vatican,2020,VAT,,,536.0,,"co2, total_energy_supply, gdp"
+Vatican,2021,VAT,,,527.0,,"co2, total_energy_supply, gdp"
+Vatican,2022,VAT,,,513.0,,"co2, total_energy_supply, gdp"
+Wallis and Futuna,1990,WLF,0.01832,,13503.0,,"total_energy_supply, gdp"
+Wallis and Futuna,1991,WLF,0.01832,,13654.0,,"total_energy_supply, gdp"
+Wallis and Futuna,1992,WLF,0.01832,,13799.0,,"total_energy_supply, gdp"
+Wallis and Futuna,1993,WLF,0.021984,,13949.0,,"total_energy_supply, gdp"
+Wallis and Futuna,1994,WLF,0.021984,,14084.0,,"total_energy_supply, gdp"
+Wallis and Futuna,1995,WLF,0.021984,,14222.0,,"total_energy_supply, gdp"
+Wallis and Futuna,1996,WLF,0.021984,,14340.0,,"total_energy_supply, gdp"
+Wallis and Futuna,1997,WLF,0.021984,,14438.0,,"total_energy_supply, gdp"
+Wallis and Futuna,1998,WLF,0.021984,,14553.0,,"total_energy_supply, gdp"
+Wallis and Futuna,1999,WLF,0.021984,,14675.0,,"total_energy_supply, gdp"
+Wallis and Futuna,2000,WLF,0.021984,,14804.0,,"total_energy_supply, gdp"
+Wallis and Futuna,2001,WLF,0.025648,,14931.0,,"total_energy_supply, gdp"
+Wallis and Futuna,2002,WLF,0.025648,,15048.0,,"total_energy_supply, gdp"
+Wallis and Futuna,2003,WLF,0.025648,,15071.0,,"total_energy_supply, gdp"
+Wallis and Futuna,2004,WLF,0.025648,,14916.0,,"total_energy_supply, gdp"
+Wallis and Futuna,2005,WLF,0.025648,,14635.0,,"total_energy_supply, gdp"
+Wallis and Futuna,2006,WLF,0.025648,,14333.0,,"total_energy_supply, gdp"
+Wallis and Futuna,2007,WLF,0.025648,,14020.0,,"total_energy_supply, gdp"
+Wallis and Futuna,2008,WLF,0.025648,,13706.0,,"total_energy_supply, gdp"
+Wallis and Futuna,2009,WLF,0.025648,,13436.0,,"total_energy_supply, gdp"
+Wallis and Futuna,2010,WLF,0.025648,,13189.0,,"total_energy_supply, gdp"
+Wallis and Futuna,2011,WLF,0.025648,,12942.0,,"total_energy_supply, gdp"
+Wallis and Futuna,2012,WLF,0.025648,,12709.0,,"total_energy_supply, gdp"
+Wallis and Futuna,2013,WLF,0.025648,,12500.0,,"total_energy_supply, gdp"
+Wallis and Futuna,2014,WLF,0.025648,,12328.0,,"total_energy_supply, gdp"
+Wallis and Futuna,2015,WLF,0.025648,,12185.0,,"total_energy_supply, gdp"
+Wallis and Futuna,2016,WLF,0.025648,,12057.0,,"total_energy_supply, gdp"
+Wallis and Futuna,2017,WLF,0.025648,,11945.0,,"total_energy_supply, gdp"
+Wallis and Futuna,2018,WLF,0.025648,,11827.0,,"total_energy_supply, gdp"
+Wallis and Futuna,2019,WLF,0.025648,,11711.0,,"total_energy_supply, gdp"
+Wallis and Futuna,2020,WLF,0.025648,,11640.0,,"total_energy_supply, gdp"
+Wallis and Futuna,2021,WLF,0.029312,,11590.0,,"total_energy_supply, gdp"
+Wallis and Futuna,2022,WLF,0.029312,,11501.0,,"total_energy_supply, gdp"
